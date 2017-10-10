@@ -2,8 +2,6 @@
  
 Just another personal webpage based off [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/). If you'd like to have one yourself, you should follow that link.
 
----
-
 ## Credits
 
 ### Minimal Mistakes Theme Creator
