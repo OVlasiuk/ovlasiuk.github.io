@@ -29,7 +29,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673. [DOI:10.1137/16m107414x](https://doi.org/10.1137/16M107414X)<br>
  D. Leviatan, I. A. Shevchuk and O.V. **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  [DOI:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>
 
-## Research interests 
+## Research
  Geometric measure theory, rectifiability; discretizing manifolds,  configurations with bounded mesh ratio, discrepancy of random collections on manifolds. <br>
  Convex and computational geometry (mesh generation, Voronoi diagrams). Point clouds and applications.<br>
  Optimization algorithms (quasi-Newton type), energy landscapes, topology of energy surfaces.<br>
@@ -37,11 +37,11 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Measure concentration, in particular, large deviations and applications; stochastic modelling.<br>
  Mathematical physics, finite elements and finite difference schemes, in particular RBF-derived.<br>
 
-## Computational and applied skills
+## Computational
  C/C++, Python; Matlab, R, Mathematica<br>
  Git, CMake, UNIX environment, high-performance computing<br>
 
-## Talks, Conferences, Workshops
+## Activities
 ### Presentations
  Computational Methods and Function Theory, July 2017, Lublin, *contributed talk<br>*
  Joint Mathematics Meetings, January 2017, Atlanta, *contributed talk<br>*
@@ -54,8 +54,8 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Minimal Energy Point Sets, Lattices, and Designs, ESI, Vienna, October 2014<br>
  Recent Methods in Sphere Packing and Optimization (workshop), Oberwolfach, June 2014<br>
 
-## Teaching experience
-I've TA'ed for single-variable calculus; taught at the Undergraduate seminar and the Vanderbilt math circle.<br>
+## Teaching
+TA for single-variable calculus; taught at the Undergraduate seminar and the Vanderbilt math circle.<br>
 Assisted with graduate-level courses in: Analysis, Statistical learning.<br>
 
 ## Miscellanea
