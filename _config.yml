@@ -84,7 +84,7 @@ analytics:
 # Site Author
 author:
   name             : "Alex Vlasiuk"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/rockies.jpg"
   bio              : "Mathematihuman"
   location         : "Nashville"
   email            :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  lastfm           :
+  lastfm           : 
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
   soundcloud       :
