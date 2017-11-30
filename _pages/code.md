@@ -13,17 +13,21 @@ supported. Proceed with care.
 
 Below, for example, are 40,000 points on the *tangle* 
 
-$$x^2 (x^2 - 5) + y^2 (y^2 - 5) + z^2 (z^2 - 5) + 11 = 0.  $$
+$$x^2 (x^2 - 5) + y^2 (y^2 - 5) + z^2 (z^2 - 5) + 11 = 0,  $$
 
-Left: (approximate) surface Delaunay triangulation; right: (approximate) surface
-Voronoi diagram. Here the approximation is understood in the sense that both the
-Delaunay and Voronoi are computed locally in the tangent plane, then
-transplanted back to the surface. Notice also that the goal is never to reach an
-exact local minimizer of the respective energy, rather to emulate certain
-features of such minimizers. Accordingly, no Hessians are computed; no careful
-line searches performed. In fact, it is rather remarkable that these points
-aren't terrible on the energy scale; proving a theorem that this is generally
-true is left as an exercise to the reader.
+distributed according to the absolute value of its Gaussian curvature.
+
+Left: (approximate) Delaunay triangulation with faces color-coded by the
+value (not the absolute value) of curvature, blue-orange/low-high; right:
+(approximate) Voronoi diagram with faces colored by the number of edges,
+blue-yellow/few-many (hexagons are the majority). Here the approximation is
+understood in the sense that both the Delaunay and Voronoi are computed locally
+in the tangent plane, then transplanted back to the surface. Notice also that
+the goal is never to reach an exact local minimizer of the respective energy,
+rather to emulate certain features of such minimizers. Accordingly, no Hessians
+are computed and no careful line searches performed. In fact, it is rather
+remarkable that these points aren't terrible on the energy scale; proving a
+theorem about this is left as an exercise to the reader for now.
 
 The Github repo for BRieszk is [here][2].
 
