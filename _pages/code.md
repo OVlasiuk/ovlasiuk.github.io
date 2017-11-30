@@ -20,9 +20,9 @@ Voronoi diagram. Here the approximation is understood in the sense that both the
 Delaunay and Voronoi are computed locally in the tangent plane, then
 transplanted back to the surface. Notice also that the goal is never to reach an
 exact local minimizer of the respective energy, rather to emulate certain
-fetures of such minimizers. Accordingly, no Hessians are computed; no careful
-line searches performed. In fact, it is rather remarkable that such points are
-not that terrible on the energy scale; proving a theorem that this is generally
+features of such minimizers. Accordingly, no Hessians are computed; no careful
+line searches performed. In fact, it is rather remarkable that these points
+aren't terrible on the energy scale; proving a theorem that this is generally
 true is left as an exercise to the reader.
 
 The Github repo for BRieszk is [here][2].
