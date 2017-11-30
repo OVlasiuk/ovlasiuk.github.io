@@ -1,7 +1,7 @@
 ---
 title: "Code snippets"
 permalink: /_pages/code/
-layout: page
+layout: splashmath
 date: 2017-11-29T17:02:20-05:00
 ---
 # BRieszk
