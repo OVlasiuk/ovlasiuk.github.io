@@ -7,9 +7,9 @@ date: 2017-11-29T17:02:20-05:00
 # BRieszk
 /ˈbrisk/ is a selection of routines helpful in dealing with discrete measures
 converging to a continunous density. They will compute near-minimizers of
-varying quality for the [Riesz energy][1]-styled functionals. Several surface
-are built-in; general (well-behaved) implicit surfaces are supported. Proceed
-with care. 
+varying quality for the [Riesz energy][1]-styled functionals. Several elementary
+underlying sets are built-in; general (well-behaved) implicit surfaces are
+supported. Proceed with care. 
 
 Below, for example, are 40,000 points on the *tangle* 
 
