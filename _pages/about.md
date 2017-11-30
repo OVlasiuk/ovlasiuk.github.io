@@ -4,8 +4,11 @@ title: Oleksandr Vlasiuk
 ---
 ## Summary
 I'm a graduate student in Mathematics at Vanderbilt University, working with the
-Minimal energy group there. The things I
-like include [computational geometry](https://github.com/OVlasiuk/3dRBFnodes), measure concentration, and large deviations. Below is an example of clumsy CSS, disguised as a CV.
+Minimal energy group: [Ed Saff](https://my.vanderbilt.edu/edsaff/) and [Doug
+Hardin](https://my.vanderbilt.edu/doughardin/). The things I like include
+[computational geometry]({{ "/_pages/code" | absolute_url}}), measure
+concentration, and large deviations. Can occasionally tweak a CSS file, e.g. the
+one you're looking at, but would rather not.
 
 ## Employment
 ### 2013-present 
@@ -43,8 +46,9 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
 
 ## Activities
 ### Presentations
- Computational Methods and Function Theory, July 2017, Lublin, *contributed talk<br>*
- Joint Mathematics Meetings, January 2017, Atlanta, *contributed talk<br>*
+ Analysis seminar, Florida State University, November 2017, *invited talk<br>*
+ Computational Methods and Function Theory, Lublin, July 2017, *contributed talk<br>*
+ Joint Mathematics Meetings, Atlanta, January 2017, *contributed talk<br>*
  1st Northeastern Analysis Meeting, the College at Brockport, SUNY, October 2016, *contributed talk<br>*
  Optimal and random point configurations, Institut Henri Poincaré, Paris, June-July 2016, *contributed poster<br>*
  Presentations at the Vanderbilt Analysis seminar on various topics: Cramér's theorem (June 2017), Ball multiplier problem (April 2017), Equiangular tight frames (April 2016), Riesz energy with an external field (April 2015), etc.<br>
