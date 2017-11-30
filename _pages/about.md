@@ -24,6 +24,7 @@ Advisor: Lyudmyla Yushchenko GPA: 19.359/20
 ### 2009-2013
 *Kyiv Taras Shevchenko University*, BSc.<br>
 Advisor: Igor Shevchuk<br>
+Recipient of the Ukrainian national scholarship throughout the whole duration of the studies, and of the scholarship of Kyiv Mayor in 2011-2013.  
 
 ## Publications
  O.V., T. Michaels, N. Flyer and B. Fornberg, **Fast high-dimensional node generation with variable density**,  preprint. [arXiv:1710.05011v1](https://arxiv.org/abs/1710.05011) <br>
