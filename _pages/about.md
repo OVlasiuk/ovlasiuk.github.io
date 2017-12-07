@@ -7,8 +7,9 @@ I'm a graduate student in Mathematics at Vanderbilt University, working with the
 Minimal energy group: [Ed Saff](https://my.vanderbilt.edu/edsaff/) and [Doug
 Hardin](https://my.vanderbilt.edu/doughardin/). The things I like include
 [computational geometry]({{ "/_pages/code" | absolute_url}}), measure
-concentration, and large deviations. Can occasionally tweak a CSS file, e.g. the
-one you're looking at, but would rather not.
+concentration, and large deviations. If the formatting on this page looks
+strange to you, it's because of the underlying CSS. If it does not,
+congratulations, you're probably viewing it on a desktop!
 
 ## Employment
 ### 2013-present 
@@ -20,18 +21,19 @@ one you're looking at, but would rather not.
 Advisor: Edward B. Saff  
 ### 2013
 *Université du Sud, Toulon-Var*, Master I Mathématiques<br>
-Advisor: Lyudmyla Yushchenko GPA: 19.359/20
+Advisor: Lyudmyla Yushchenko <br>
+GPA: 19.359/20
 ### 2009-2013
 *Kyiv Taras Shevchenko University*, BSc.<br>
 Advisor: Igor Shevchuk<br>
 Recipient of the Ukrainian national scholarship throughout the whole duration of the studies, and of the scholarship of Kyiv Mayor in 2011-2013.  
 
-## Publications
- O.V., T. Michaels, N. Flyer and B. Fornberg, **Fast high-dimensional node generation with variable density**,  preprint. [arXiv:1710.05011v1](https://arxiv.org/abs/1710.05011) <br>
- A. Reznikov, E. B. Saff and O. V., **A minimum principle for potentials with application to Chebyshev constants**, Potential Anal.  47  (2017),  no. 2, 235--244. [DOI:10.1007/s11118-017-9618-x](https://doi.org/10.1007/s11118-017-9618-x) <br>
- D. P. Hardin, E. B. Saff and O.V., **Generating Point Configurations via Hypersingular Riesz Energy with an External Field**,
- SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673. [DOI:10.1137/16m107414x](https://doi.org/10.1137/16M107414X)<br>
- D. Leviatan, I. A. Shevchuk and O.V. **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  [DOI:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>
+<!--## Publications-->
+ <!--O.V., T. Michaels, N. Flyer and B. Fornberg, **Fast high-dimensional node generation with variable density**,  preprint. [arXiv:1710.05011v1](https://arxiv.org/abs/1710.05011) <br>-->
+ <!--A. Reznikov, E. B. Saff and O. V., **A minimum principle for potentials with application to Chebyshev constants**, Potential Anal.  47  (2017),  no. 2, 235--244. [DOI:10.1007/s11118-017-9618-x](https://doi.org/10.1007/s11118-017-9618-x) <br>-->
+ <!--D. P. Hardin, E. B. Saff and O.V., **Generating Point Configurations via Hypersingular Riesz Energy with an External Field**,-->
+ <!--SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673. [DOI:10.1137/16m107414x](https://doi.org/10.1137/16M107414X)<br>-->
+ <!--D. Leviatan, I. A. Shevchuk and O.V. **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  [DOI:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>-->
 
 ## Research
  Geometric measure theory, rectifiability; discretizing manifolds,  configurations with bounded mesh ratio, discrepancy of random collections on manifolds. <br>
