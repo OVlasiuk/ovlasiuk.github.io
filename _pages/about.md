@@ -33,7 +33,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  <!--SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673. [DOI:10.1137/16m107414x](https://doi.org/10.1137/16M107414X)<br>-->
  <!--D. Leviatan, I. A. Shevchuk and O.V. **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  [DOI:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>-->
 
-## Research
+## Research interests
  Geometric measure theory, rectifiability; discretizing manifolds,  configurations with bounded mesh ratio, discrepancy of random collections on manifolds. <br>
  Convex and computational geometry (mesh generation, Voronoi diagrams). Point clouds and applications.<br>
  Optimization algorithms (quasi-Newton type), energy landscapes, topology of energy surfaces.<br>
