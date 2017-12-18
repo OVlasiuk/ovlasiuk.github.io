@@ -41,7 +41,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Measure concentration, in particular, large deviations and applications; stochastic modelling.<br>
  Mathematical physics, finite elements and finite difference schemes, in particular RBF-derived.<br>
 
-## Computational
+## Computational skills
  C/C++, Python; Matlab, R, Mathematica<br>
  Git, CMake, UNIX environment, high-performance computing<br>
 
