@@ -7,9 +7,7 @@ I'm a graduate student in Mathematics at Vanderbilt University, working with the
 Minimal energy group: [Ed Saff](https://my.vanderbilt.edu/edsaff/) and [Doug
 Hardin](https://my.vanderbilt.edu/doughardin/). The things I like include
 [computational geometry]({{ "/_pages/code" | absolute_url}}), measure
-concentration, and large deviations. If the formatting on this page looks
-strange to you, it's because of the underlying CSS. If it does not,
-congratulations, you're probably viewing it on a desktop!
+concentration, and large deviations. Also, [Stanisław](https://en.wikipedia.org/wiki/The_Cyberiad) [Lem's](https://en.wikipedia.org/wiki/Golem_XIV) [writings](https://en.wikipedia.org/wiki/Tales_of_Pirx_the_Pilot).
 
 ## Employment
 ### 2013-present 
