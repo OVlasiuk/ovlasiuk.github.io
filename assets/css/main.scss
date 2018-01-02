@@ -3,6 +3,94 @@
 ---
 
 @charset "utf-8";
+$right-sidebar-width-narrow   : 100px ;
+$right-sidebar-width          : 200px ;
+$right-sidebar-width-wide     : 300px ;
+
+
+/* Colors */
+$text-color: #000 !default;
+$primary-color: #ff0000 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+$link-color: #343434 !default;
+
+
+/*
+   Colors
+   ========================================================================== */
+
+$gray                         : #7a8288 !default;
+$dark-gray                    : mix(#000, $gray, 40%) !default;
+$darker-gray                  : mix(#000, $gray, 60%) !default;
+$light-gray                   : mix(#fff, $gray, 50%) !default;
+$lighter-gray                 : mix(#fff, $gray, 90%) !default;
+
+$background-color             : #fff !default;
+$code-background-color        : #fafafa !default;
+$code-background-color-dark   : $light-gray !default;
+$text-color                   : $dark-gray !default;
+$muted-text-color             : mix(#fff, $text-color, 35%) !default;
+$border-color                 : $lighter-gray !default;
+$form-background-color        : $lighter-gray !default;
+$footer-background-color      : $lighter-gray !default;
+
+$primary-color                : #7a8288 !default;
+$success-color                : #62c462 !default;
+$warning-color                : #f89406 !default;
+$danger-color                 : #ee5f5b !default;
+$info-color                   : #52adc8 !default;
+
+
+/* system typefaces */
+$serif                        : Georgia, Times, serif !default;
+$sans-serif                   : -apple-system, BlinkMacSystemFont, "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif !default;
+$monospace                    : Monaco, Consolas, "Lucida Console", monospace !default;
+
+/* sans serif typefaces */
+$sans-serif-narrow            : $sans-serif !default;
+$helvetica                    : Helvetica, "Helvetica Neue", Arial, sans-serif !default;
+
+
+/*
+   Other
+   ========================================================================== */
+
+$border-radius                : 4px !default;
+$box-shadow                   : 0 1px 1px rgba(0, 0, 0, 0.125) !default;
+
+/* type scale */
+$type-size-1                  : 2.441em !default;  // ~39.056px
+$type-size-2                  : 1.953em !default;  // ~31.248px
+$type-size-3                  : 1.563em !default;  // ~25.008px
+$type-size-4                  : 1.25em !default;   // ~20px
+$type-size-5                  : 1em !default;      // ~16px
+$type-size-6                  : 0.75em !default;   // ~12px
+$type-size-7                  : 0.6875em !default; // ~11px
+$type-size-8                  : 0.625em !default;  // ~10px
+
+
+.toc {
+    font-family: $sans-serif-narrow;
+    color: $gray;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    background-color: $background-color;
+    border: 1px solid $border-color;
+    border-radius: $border-radius;
+    box-shadow: $box-shadow;
+
+    .nav__title {
+        color: #fff;
+        font-size: $type-size-6;
+        background: $primary-color;
+        border-top-left-radius: $border-radius;
+        border-top-right-radius: $border-radius;
+    }
+}
+
+
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

@@ -1,0 +1,7 @@
+.page__content h2 {
+    padding-bottom: 0.5em;
+    border-bottom: 1px solid #bfbfbf;
+}
+.page__content p {
+    margin: 0 10% 1.3em 10%;
+}
