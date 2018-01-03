@@ -11,7 +11,8 @@ in $$\LaTeX$$ means having editor and a couple of PDF-viewer windows open; throw
 in browser, reference manager, a terminal or two, and you easily end up at 8-10
 windows. Unfortunately, switching between as many as 5 on a single workspace is
 already rather tedious, be it by clicking and dragging, or by `Alt-Tab`bing your
-way around. It certainly helps to have a good window manager, with [Cinnamon][1] being an example. 
+way around. One would think that a good window manager, [Cinnamon][1] being
+an example of such, should allow to fix this. 
 
 For some reason though, Cinnamon only provides left/right inter-workspace motions out of
 the box; I find it more natural to think of the workspaces as sitting on a 2d grid. Apparently, there *are* people sharing this sentiment: a quick search reveals a [discussion][SE] on unix stackexchange, where somebody mentions using 16(!) workspaces. Besides, there already is an applet that purports to do precisely what I want; the fact that it conflicts with Expo and does not allow to move windows around makes it somewhat suboptimal.
