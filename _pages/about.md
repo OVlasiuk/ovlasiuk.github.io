@@ -61,7 +61,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Recent Methods in Sphere Packing and Optimization (workshop), Oberwolfach, June 2014<br>
 
 ## Teaching
-TA for single-variable calculus; taught at the Undergraduate seminar and the Vanderbilt math circle.<br>
+TA for single-variable calculus; taught at the [Undergraduate seminar](https://my.vanderbilt.edu/undergradseminar) and the [Vanderbilt math circle](https://my.vanderbilt.edu/mathcircle).<br>
 Assisted with graduate-level courses in: Analysis, Statistical learning.<br>
 
 ## Miscellanea
