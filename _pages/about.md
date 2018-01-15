@@ -47,6 +47,8 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
 
 ## Activities
 ### Presentations
+ (upcoming) ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, March 2018<br>
+ Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018, *invited talk<br>*
  Analysis seminar, Florida State University, November 2017, *invited talk<br>*
  Computational Methods and Function Theory, Lublin, July 2017, *contributed talk<br>*
  Joint Mathematics Meetings, Atlanta, January 2017, *contributed talk<br>*
@@ -54,7 +56,6 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Optimal and random point configurations, Institut Henri Poincaré, Paris, June-July 2016, *contributed poster<br>*
  Presentations at the Vanderbilt Analysis seminar on various topics: Cramér's theorem (June 2017), Ball multiplier problem (April 2017), Equiangular tight frames (April 2016), Riesz energy with an external field (April 2015), etc.<br>
 ### Visits
- (upcoming) ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, Spring 2018<br>
  Midwestern Workshop on Asymptotic Analysis, Indiana University in Bloomington, October 2015<br>
  Minimal Energy Point Sets, Lattices, and Designs, ESI, Vienna, October 2014<br>
  Recent Methods in Sphere Packing and Optimization (workshop), Oberwolfach, June 2014<br>
