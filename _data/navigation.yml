@@ -1,12 +1,12 @@
 # main links
 main:
-  - title: "Publications"
-    url: /_pages/publist
-  - title: "Code"
+  - title: "/dev/null"
+    url: /devnull/index.html
+  - title: "code"
     url: /_pages/code
-  - title: "About"
+  - title: "math"
+    url: /_pages/publist
+  - title: "cv"
     url: /_pages/about
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
