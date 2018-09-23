@@ -2,19 +2,13 @@
 layout: about
 title: Oleksandr Vlasiuk
 ---
-## Summary
-I'm a graduate student in Mathematics at Vanderbilt University, working with the
-Minimal energy group: [Ed Saff](https://my.vanderbilt.edu/edsaff/) and [Doug
-Hardin](https://my.vanderbilt.edu/doughardin/). The things I like include
-[computational geometry]({{ "/_pages/code" | absolute_url}}), measure
-concentration, and large deviations. Also, [Stanisław](https://en.wikipedia.org/wiki/The_Cyberiad) [Lem's](https://en.wikipedia.org/wiki/Golem_XIV) [writings](https://en.wikipedia.org/wiki/Tales_of_Pirx_the_Pilot).
 
 ## Employment
-### 2013-present 
-*Vanderbilt University*, *TA*  <br>
+### 2018- 
+*Florida State University*, *Postdoc*  <br>
 
 ## Education
-### 2013-present
+### 2013-18
 *Vanderbilt University*, Ph.D.<br>
 Advisor: Edward B. Saff  
 ### 2013
@@ -34,6 +28,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  <!--D. Leviatan, I. A. Shevchuk and O.V. **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  [DOI:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>-->
 
 ## Research interests
+ See [Publications](/_pages/publist).<br>
  Geometric measure theory, rectifiability; discretizing manifolds,  configurations with bounded mesh ratio, discrepancy of random collections on manifolds. <br>
  Convex and computational geometry (mesh generation, Voronoi diagrams). Point clouds and applications.<br>
  Optimization algorithms (quasi-Newton type), energy landscapes, topology of energy surfaces.<br>
@@ -47,7 +42,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
 
 ## Activities
 ### Presentations
- (upcoming) ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, March 2018<br>
+ ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, March 2018<br>
  Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018, *invited talk<br>*
  Analysis seminar, Florida State University, November 2017, *invited talk<br>*
  Computational Methods and Function Theory, Lublin, July 2017, *contributed talk<br>*
