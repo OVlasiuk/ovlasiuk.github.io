@@ -1,6 +1,7 @@
 ---
 title:  "Speed-data-ing with R"
 date:   2017-10-10 17:14:01 -0500
+layout: singlemath
 categories: R Code
 ---
 
