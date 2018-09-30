@@ -4,18 +4,18 @@ title: Oleksandr Vlasiuk
 ---
 
 ## Employment
-### 2018- 
+### 2018–
 *Florida State University*, *Postdoc*  <br>
 
 ## Education
-### 2013-18
+### 2013–18
 *Vanderbilt University*, Ph.D.<br>
 Advisor: Edward B. Saff  
 ### 2013
 *Université du Sud, Toulon-Var*, Master I Mathématiques<br>
 Advisor: Lyudmyla Yushchenko <br>
 GPA: 19.359/20
-### 2009-2013
+### 2009–2013
 *Kyiv Taras Shevchenko University*, BSc.<br>
 Advisor: Igor Shevchuk<br>
 Recipient of the Ukrainian national scholarship throughout the whole duration of the studies, and of the scholarship of Kyiv Mayor in 2011-2013.  
