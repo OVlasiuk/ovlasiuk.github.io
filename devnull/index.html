@@ -2,7 +2,8 @@
 layout: archive
 ---
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<!-- <h4 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h4> -->
+<h4 class="archive__subtitle"><i> Musings over the data sink </i> </h4>
 
 {% for post in paginator.posts %}
   {% include archive-single-date.html %}
