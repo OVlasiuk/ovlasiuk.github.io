@@ -37,6 +37,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Mathematical physics, finite elements and finite difference schemes, in particular RBF-derived.<br>
 
 ## Computational skills
+ See [Code](/_pages/code).<br>
  C/C++, Python; Matlab, R, Mathematica<br>
  Git, CMake, UNIX environment, high-performance computing<br>
 
@@ -46,11 +47,12 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Institute, Linz, Austria, November 2018<br>
  Texas Analysis and Mathematical Physics Symposium, Baylor University, October 2018<br>
  ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, March 2018<br>
- Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018
- Analysis seminar, Florida State University, November 2017
- Computational Methods and Function Theory, Lublin, July 2017
- Joint Mathematics Meetings, Atlanta, January 2017
- 1st Northeastern Analysis Meeting, the College at Brockport, SUNY, October 2016
+ Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018<br>
+ Analysis seminar, Florida State University, November 2017<br>
+ Computational Methods and Function Theory, Lublin, July 2017<br>
+ Joint Mathematics Meetings, Atlanta, January 2017<br>
+ 1st Northeastern Analysis Meeting, the College at Brockport, SUNY, October
+ 2016<br>
  Optimal and random point configurations, Institut Henri Poincaré, Paris, June-July 2016, *poster<br>*
  Presentations at the Vanderbilt Analysis seminar on various topics: Cramér's theorem (June 2017), Ball multiplier problem (April 2017), Equiangular tight frames (April 2016), Riesz energy with an external field (April 2015), etc.<br>
 ### Visits
