@@ -44,7 +44,7 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
 ## Activities
 ### Presentations
  Multivariate Algorithms and their Foundations in Number Theory, Johann Radon
- Institute, Linz, Austria, November 2018<br>
+ Institute, Linz, November 2018<br>
  Texas Analysis and Mathematical Physics Symposium, Baylor University, October 2018<br>
  ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, March 2018<br>
  Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018<br>
