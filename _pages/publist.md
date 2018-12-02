@@ -2,9 +2,10 @@
 title: "Publications"
 permalink: /_pages/publist/
 layout: splashmath
-date: 2017-12-07T11:02:20-05:00
+date: 2018-12-02
 ---
 # Publications
+* A. Reznikov and O. V., **Riesz energy on self-similar sets**, [arXiv:1810.01557](https://arxiv.org/abs/1810.01557)<br>
 * O.V., T. Michaels, N. Flyer, B. Fornberg, **Fast high-dimensional node generation with variable density**, Comput. Math. Appl. 76 (2018), no. 7, 1739–1757. [doi:10.1016/j.camwa.2018.07.026](https://doi.org/10.1016/j.camwa.2018.07.026) [arXiv:1710.05011](https://arxiv.org/abs/1710.05011)<br>
 * A. Reznikov, E. B. Saff and O. V., **A minimum principle for potentials with application to Chebyshev constants**, Potential Anal.  47  (2017),  no. 2, 235--244. [doi:10.1007/s11118-017-9618-x](https://doi.org/10.1007/s11118-017-9618-x) <br>
 * D. P. Hardin, E. B. Saff and O.V., **Generating Point Configurations via Hypersingular Riesz Energy with an External Field**, SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673. [doi:10.1137/16m107414x](https://doi.org/10.1137/16M107414X)<br>

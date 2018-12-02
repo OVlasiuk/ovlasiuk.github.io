@@ -42,13 +42,16 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
 
 ## Activities
 ### Presentations
+ Multivariate Algorithms and their Foundations in Number Theory, Johann Radon
+ Institute, Linz, Austria, November 2018<br>
+ Texas Analysis and Mathematical Physics Symposium, Baylor University, October 2018<br>
  ICERM Semester Program: Point Configurations in Geometry, Physics and Computer Science, March 2018<br>
- Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018, *invited talk<br>*
- Analysis seminar, Florida State University, November 2017, *invited talk<br>*
- Computational Methods and Function Theory, Lublin, July 2017, *contributed talk<br>*
- Joint Mathematics Meetings, Atlanta, January 2017, *contributed talk<br>*
- 1st Northeastern Analysis Meeting, the College at Brockport, SUNY, October 2016, *contributed talk<br>*
- Optimal and random point configurations, Institut Henri Poincaré, Paris, June-July 2016, *contributed poster<br>*
+ Computational and Applied Mathematics seminar, Oak Ridge National Laboratory, January 2018
+ Analysis seminar, Florida State University, November 2017
+ Computational Methods and Function Theory, Lublin, July 2017
+ Joint Mathematics Meetings, Atlanta, January 2017
+ 1st Northeastern Analysis Meeting, the College at Brockport, SUNY, October 2016
+ Optimal and random point configurations, Institut Henri Poincaré, Paris, June-July 2016, *poster<br>*
  Presentations at the Vanderbilt Analysis seminar on various topics: Cramér's theorem (June 2017), Ball multiplier problem (April 2017), Equiangular tight frames (April 2016), Riesz energy with an external field (April 2015), etc.<br>
 ### Visits
  Midwestern Workshop on Asymptotic Analysis, Indiana University in Bloomington, October 2015<br>
