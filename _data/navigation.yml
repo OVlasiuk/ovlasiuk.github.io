@@ -4,7 +4,7 @@ main:
     url: /_pages/publist
   - title: "code"
     url: /_pages/code
-  - title: "cv"
+  - title: "about"
     url: /_pages/about
   - title: "/dev/null"
     url: /devnull/index.html

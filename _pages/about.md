@@ -14,7 +14,7 @@ Advisor: Edward B. Saff
 ### 2013
 *Université du Sud, Toulon-Var*, Master I Mathématiques<br>
 Advisor: Lyudmyla Yushchenko <br>
-GPA: 19.359/20
+<!-- GPA: 19.359/20 -->
 ### 2009–2013
 *Kyiv Taras Shevchenko University*, BSc.<br>
 Advisor: Igor Shevchuk<br>
