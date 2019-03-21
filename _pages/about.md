@@ -18,7 +18,6 @@ Advisor: Lyudmyla Yushchenko <br>
 ### 2009–2013
 *Kyiv Taras Shevchenko University*, BSc.<br>
 Advisor: Igor Shevchuk<br>
-Recipient of the Ukrainian national scholarship throughout the whole duration of the studies, and of the scholarship of Kyiv Mayor in 2011-2013.  
 
 <!--## Publications-->
  <!--O.V., T. Michaels, N. Flyer and B. Fornberg, **Fast high-dimensional node generation with variable density**,  preprint. [arXiv:1710.05011v1](https://arxiv.org/abs/1710.05011) <br>-->
@@ -29,20 +28,19 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
 
 ## Research interests
  See [Publications](/_pages/publist).<br>
- Geometric measure theory, rectifiability; discretizing manifolds,  configurations with bounded mesh ratio, discrepancy of random collections on manifolds. <br>
- Convex and computational geometry (mesh generation, Voronoi diagrams). Point clouds and applications.<br>
- Optimization algorithms (quasi-Newton type), energy landscapes, topology of energy surfaces.<br>
- High-performance computing, parallel architectures, GPU-based parallelization.<br>
+ Optimization on probability spaces; extremal measures, potential theory.
+ Geometric measure theory, rectifiability; discretizing manifolds, configurations with bounded mesh ratio. <br>
+ Convex and computational geometry. Point clouds and applications.<br>
  Measure concentration, in particular, large deviations and applications; stochastic modelling.<br>
- Mathematical physics, finite elements and finite difference schemes, in particular RBF-derived.<br>
 
 ## Computational skills
  See [Code](/_pages/code).<br>
- C/C++, Python; Matlab, R, Mathematica<br>
- Git, CMake, UNIX environment, high-performance computing<br>
+ C/C++, Python; Matlab, R, Julia<br>
 
 ## Activities
 ### Presentations
+ SEAM, University of Alabama, Tuscaloosa, March 2019<br>
+ Mathematics Colloquium, Florida State University, Tallahassee, January 2019<br>
  Multivariate Algorithms and their Foundations in Number Theory, Johann Radon
  Institute, Linz, November 2018<br>
  Texas Analysis and Mathematical Physics Symposium, Baylor University, October 2018<br>
@@ -61,8 +59,12 @@ Recipient of the Ukrainian national scholarship throughout the whole duration of
  Recent Methods in Sphere Packing and Optimization (workshop), Oberwolfach, June 2014<br>
 
 ## Teaching
-TA for single-variable calculus; taught at the [Undergraduate seminar](https://my.vanderbilt.edu/undergradseminar) and the [Vanderbilt math circle](https://my.vanderbilt.edu/mathcircle).<br>
-Assisted with graduate-level courses in: Analysis, Statistical learning.<br>
+Calculus II, Florida State University, 2019<br>
+Statistical learning: TA, Vanderbilt University, 2017<br>
+Calculus I, II: TA/tutor, Vanderbilt University, 2014--2017<br>
+Analysis (graduate): TA, Vanderbilt University, 2014--2015<br>
+Undergraduate seminar (expository talks for undergraduate students)<br>
+Vanderbilt Math Circle (contest-type problem solving for high-school students)<br> 
 
 ## Miscellanea
 ### Review 
