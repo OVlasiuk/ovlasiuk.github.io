@@ -4,6 +4,8 @@ main:
     url: /_pages/publist
   - title: "code"
     url: /_pages/code
+  - title: "teaching"
+    url: /_pages/teaching
   - title: "about"
     url: /_pages/about
   - title: "/dev/null"
