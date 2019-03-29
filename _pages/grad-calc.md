@@ -1,5 +1,5 @@
 ---
-title:  "Grade calculator"
+title:  "Grade calculator for MAC2312"
 date:   2019-03-29 08:00:00 -0500
 layout: singlemath
 categories: Teaching
@@ -8,14 +8,12 @@ categories: Teaching
 
 <head>
 <meta charset="utf-8">
-<title>Grade calculator</title>
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 
 <div class="container">
-<h1>Grade calculator for MAC2312</h1>
 <p>
 Enter the average grade received on tests 1–3, the grade for homeworks and quizzes, as well as the expected grades on the 4th
 test and the final, and obtain the resulting grade for MAC2312.
