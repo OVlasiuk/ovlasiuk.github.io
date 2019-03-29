@@ -3,6 +3,9 @@ layout: about
 title: Oleksandr Vlasiuk
 ---
 
+**Contact:** firstname.lastname[at]giraffemail.com (keep only the first letter
+in the African mammal's name).
+
 ## Employment
 ### 2018–
 *Florida State University*, *Postdoc*  <br>
