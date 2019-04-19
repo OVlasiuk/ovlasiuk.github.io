@@ -1,6 +1,6 @@
 ---
 title:  "Grade calculator for MAC2312"
-date:   2019-03-29 08:00:00 -0500
+date:   2019-04-19 08:00:00 -0500
 layout: singlemath
 categories: Teaching
 
@@ -15,9 +15,8 @@ categories: Teaching
 
 <div class="container">
 <p>
-Enter the average grade received on tests 1–3, the grade for homeworks and quizzes, as well as the expected grades on the 4th
-test and the final, and obtain the resulting grade for MAC2312.
-</p>
+Enter the grades received on tests 1–4, the grade for homeworks and quizzes, as well as the expected grade on the final, and obtain the resulting grade for MAC2312.
+</p> 
 
 <form class="form-horizontal">
 <fieldset>
@@ -25,36 +24,44 @@ test and the final, and obtain the resulting grade for MAC2312.
 <div class="form-group">
 <label class="col-md-4 control-label" for="hw"> HW + quizzes </label> 
 <div class="col-md-4">
-<input id="hw" placeholder="100" class="form-control input-md" type="text">
+<input id="hw" placeholder="" class="form-control input-md" type="text">
 <span class="help-block">Percentage earned on homeworks and quizzes (combined)</span>
 </div>
 </div>
 
+<div class="form-group">
+<label class="col-md-2 control-label" for="one"> Test 1 </label> 
+<div class="col-md-3">
+<input id="one" placeholder="" class="form-control input-md" type="text">
+<span class="help-block"> Grade you received on test 1</span>
+</div>
+
+<label class="col-md-2 control-label" for="two"> Test 2 </label> 
+<div class="col-md-3">
+<input id="two" placeholder="" class="form-control input-md" type="text">
+<span class="help-block"> Grade you received on test 2</span>
+</div>
+</div>
 
 <div class="form-group">
-<label class="col-md-4 control-label" for="average"> Tests 1–3 </label> 
-<div class="col-md-4">
-<input id="average" placeholder="100" class="form-control input-md" type="text">
-<span class="help-block">
-Average of the grades you received on tests 1–3</span>
-</div>
+<label class="col-md-2 control-label" for="three"> Test 3 </label> 
+<div class="col-md-3">
+<input id="three" placeholder="" class="form-control input-md" type="text">
+<span class="help-block"> Grade you received on test 3</span>
 </div>
 
-<div class="form-group">
-<label class="col-md-4 control-label" for="fourth"> 4th test </label> 
-<div class="col-md-4">
-<input id="fourth" placeholder="100" class="form-control input-md" type="text">
-<span class="help-block">Expected grade on the 4th test</span>
+<label class="col-md-2 control-label" for="four"> Test 4 </label> 
+<div class="col-md-3">
+<input id="four" placeholder="" class="form-control input-md" type="text">
+<span class="help-block"> Grade you received on test 4</span>
 </div>
 </div>
-
-
 
 
 <div class="form-group">
 <label class="col-md-4 control-label" for="final"> Final </label> 
 <div class="col-md-4">
-<input id="final" placeholder="100" class="form-control input-md" type="text">
+<input id="final" placeholder="" class="form-control input-md" type="text">
 <span class="help-block">Expected grade on the final</span>
 </div>
 </div>
@@ -75,7 +82,7 @@ shown above</span>
 
 <script>
 $(function () {
-        var n = 0, p = 0, f = 0, r = 0, q=0;
+        var hw = 0, tests = [0.0,0.0,0.0,0.0], f = 0, r = 0, m =0;
 
         function format(x) {
         x = String(x);
@@ -96,12 +103,17 @@ $(function () {
 
         function calculate() {
             var mes = "";
-            q = evaluate("#hw");
-            n = evaluate("#average");
-            p = evaluate("#fourth");
+            hw = evaluate("#hw");
+            tests[1] = evaluate("#one");
+            tests[2] = evaluate("#two");
+            tests[3] = evaluate("#three");
+            tests[4] = evaluate("#four");
             f = evaluate("#final");
 
-            r = (3*(3*n+p)/2.0 + q + 3*f)/10.0;
+            m = Math.min(tests[1],tests[2],tests[3],tests[4]);
+            r =  0.6*( tests[1]+tests[2]+tests[3]+tests[4] + (f-m)/2 )/4
+                +0.1*hw
+                +0.3*f;
             if (r>89)
                 mes = " (A)";
             else if (r>79)
@@ -113,10 +125,10 @@ $(function () {
             else if (r>0)
                 mes = " (F)";
 
-            $("#result").text(String(r)+mes);
+            $("#result").text(format(String(r))+mes);
         }
 
-        $("#average,#fourth,#final").keyup(function (e) {
+        $("#one,#two,#three,#four,#hw,#final").keyup(function (e) {
                 calculate();
                 });
 
