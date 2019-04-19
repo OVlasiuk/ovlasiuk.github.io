@@ -82,7 +82,7 @@ shown above</span>
 
 <script>
 $(function () {
-        var hw = 0, tests = [0.0,0.0,0.0,0.0], f = 0, r = 0, m =0;
+        var hw = 0, tests = [0,0,0,0], f = 0, r = 0, m =0;
 
         function format(x) {
         x = String(x);
@@ -111,7 +111,7 @@ $(function () {
             f = evaluate("#final");
 
             m = Math.min(tests[1],tests[2],tests[3],tests[4]);
-            r =  0.6*( tests[1]+tests[2]+tests[3]+tests[4] + (f-m)/2 )/4
+            r =  0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
                 +0.1*hw
                 +0.3*f;
             if (r>89)
