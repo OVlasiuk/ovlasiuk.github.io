@@ -24,7 +24,7 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <div class="form-group">
 <label class="col-md-4 control-label" for="hw"> HW + quizzes </label> 
 <div class="col-md-4">
-<input id="hw" placeholder="" class="form-control input-md" type="text">
+<input id="hw" placeholder="100" class="form-control input-md" type="text">
 <span class="help-block">Percentage earned on homeworks and quizzes (combined)</span>
 </div>
 </div>
@@ -32,13 +32,13 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <div class="form-group">
 <label class="col-md-2 control-label" for="one"> Test 1 </label> 
 <div class="col-md-3">
-<input id="one" placeholder="" class="form-control input-md" type="text">
+<input id="one" placeholder="100" class="form-control input-md" type="text">
 <span class="help-block"> Grade you received on test 1</span>
 </div>
 
 <label class="col-md-2 control-label" for="two"> Test 2 </label> 
 <div class="col-md-3">
-<input id="two" placeholder="" class="form-control input-md" type="text">
+<input id="two" placeholder="100" class="form-control input-md" type="text">
 <span class="help-block"> Grade you received on test 2</span>
 </div>
 </div>
@@ -46,13 +46,13 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <div class="form-group">
 <label class="col-md-2 control-label" for="three"> Test 3 </label> 
 <div class="col-md-3">
-<input id="three" placeholder="" class="form-control input-md" type="text">
+<input id="three" placeholder="100" class="form-control input-md" type="text">
 <span class="help-block"> Grade you received on test 3</span>
 </div>
 
 <label class="col-md-2 control-label" for="four"> Test 4 </label> 
 <div class="col-md-3">
-<input id="four" placeholder="" class="form-control input-md" type="text">
+<input id="four" placeholder="100" class="form-control input-md" type="text">
 <span class="help-block"> Grade you received on test 4</span>
 </div>
 </div>
@@ -61,7 +61,7 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <div class="form-group">
 <label class="col-md-4 control-label" for="final"> Final </label> 
 <div class="col-md-4">
-<input id="final" placeholder="" class="form-control input-md" type="text">
+<input id="final" placeholder="100" class="form-control input-md" type="text">
 <span class="help-block">Expected grade on the final</span>
 </div>
 </div>
