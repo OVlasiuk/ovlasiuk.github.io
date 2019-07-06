@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en"
-title                    : "Mathematithoughts"
+title                    : "Mathematipage"
 title_separator          : "-"
 name                     : "Alex Vlasiuk"
 description              : "Complete oeuvre in html."
