@@ -97,6 +97,10 @@ $type-size-8                  : 0.625em !default;  // ~10px
     }
 }
 
+.page__content li {
+    margin-left: 10%;
+}
+
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
