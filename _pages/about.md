@@ -3,7 +3,7 @@ layout: about
 title: Oleksandr Vlasiuk
 ---
 
-A longer version of the CV: in [pdf](/_assets/pdf/cv_web.pdf).
+A longer version of the CV: in [pdf](/assets/pdf/cv_web.pdf).
 
 ## Employment
 ### 2018–
