@@ -1,6 +1,6 @@
 ---
 title:  "Grade calculator for MAC2312"
-date:   2019-04-19 08:00:00 -0500
+date:   2019-10-22 08:00:00 -0500
 layout: singlemath
 categories: Teaching
 
@@ -111,7 +111,9 @@ $(function () {
             f = evaluate("#final");
 
             m = Math.min(tests[1],tests[2],tests[3],tests[4]);
-            r =  0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
+            r =  
+                0.6*( tests[1]+tests[2]+tests[3]+tests[4] )/4
+                // 0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
                 +0.1*hw
                 +0.3*f;
             if (r>89)

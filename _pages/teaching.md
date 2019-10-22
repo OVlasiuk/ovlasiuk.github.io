@@ -11,7 +11,11 @@ date: 2019-03-29T17:02:20-05:00
 </p>
 
 
-<!-- [Grade calculator]({{"/_pages/grad-calc" | absolute_url }})<br> -->
+[Grade calculator]({{"/_pages/grad-calc" | absolute_url }})<br>
+{: style="text-indent: 0;"}
+
+<br>
+
 <b>Maxima examples</b> as a [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx]({{"/assets/notes.wxmx"}}).<br>
 {: style="text-indent: 0;"}
 
