@@ -1,6 +1,6 @@
 ---
 title:  "Grade calculator for MAC2312"
-date:   2019-10-22 08:00:00 -0500
+date:   2019-12-03 08:00:00 -0500
 layout: singlemath
 categories: Teaching
 
