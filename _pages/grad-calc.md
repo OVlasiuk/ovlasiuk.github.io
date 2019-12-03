@@ -112,8 +112,8 @@ $(function () {
 
             m = Math.min(tests[1],tests[2],tests[3],tests[4]);
             r =  
-                0.6*( tests[1]+tests[2]+tests[3]+tests[4] )/4
-                // 0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
+                // 0.6*( tests[1]+tests[2]+tests[3]+tests[4] )/4
+                0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
                 +0.1*hw
                 +0.3*f;
             if (r>89)
