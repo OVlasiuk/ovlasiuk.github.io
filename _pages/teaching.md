@@ -26,6 +26,11 @@ date: 2019-03-29T17:02:20-05:00
 
 <br>
 
+<b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage]({{"/assets/taylor.html"}}), and the original Jupyter [notebook]({{"/assets/taylor.ipynb"}}).<br>
+{: style="text-indent: 0;"}
+
+<br>
+
 Review questions
 [[1]]({{"/assets/pdf/review_1.pdf"}})
 [[2]]({{"/assets/pdf/review_2.pdf"}})
