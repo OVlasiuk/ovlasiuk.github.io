@@ -116,13 +116,28 @@ $(function () {
                 0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
                 +0.1*hw
                 +0.3*f;
+            // if (r>89)
+            //     mes = " (A)";
+            // else if (r>79)
+            //     mes = " (B)";
+            // else if (r>69)
+            //     mes = " (C)";
+            // else if (r>59)
+            //     mes = " (D)";
+            // else if (r>0)
+            //     mes = " (F)";
+
             if (r>89)
                 mes = " (A)";
+            else if (r>88)
+                mes = " (A-)";
             else if (r>79)
                 mes = " (B)";
             else if (r>69)
                 mes = " (C)";
-            else if (r>59)
+            else if (r>67)
+                mes = " (C-)";
+            else if (r>50)
                 mes = " (D)";
             else if (r>0)
                 mes = " (F)";
