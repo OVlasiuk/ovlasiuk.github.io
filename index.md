@@ -8,7 +8,7 @@ I've got my PhD from Vanderbilt University, where [Ed Saff](https://my.vanderbil
 {: style="margin-top: 20%; margin-left: 12%; margin-right: 12%; text-align: justify"}
 <br>
 
-The things I like include [computational geometry](/_pages/code), geometric measure theory, and [concentration of minimizers](/_pages/publist). Also, [books](https://en.wikipedia.org/wiki/Tales_of_Pirx_the_Pilot) by [Stanisław](https://en.wikipedia.org/wiki/The_Cyberiad) [Lem](https://en.wikipedia.org/wiki/Golem_XIV).<br>
+I am interested in convex and [computational](/_pages/code) geometry, geometric measure theory, and [behavior of minimizers](/_pages/publist) of variational functionals.
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
 
 <br>
