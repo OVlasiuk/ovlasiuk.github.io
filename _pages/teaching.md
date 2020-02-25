@@ -16,7 +16,7 @@ date: 2019-03-29T17:02:20-05:00
 
 <br>
 
-<b>Maxima examples</b> as a [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx]({{"/assets/notes.wxmx"}}).<br>
+<b>Maxima examples</b> as a [webpage]({{"/assets/maxima.html"}}), and the original [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx]({{"/assets/notes.wxmx"}}).<br>
 {: style="text-indent: 0;"}
 
 <br>
