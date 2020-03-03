@@ -1,15 +1,17 @@
 ---
-title: "Publications"
-permalink: /_pages/publist/
-layout: splashmath
+title: Publications
+layout: splash
 date: 2018-12-02
 ---
-# Publications
+
+## Preprints
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, 
 [arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal
   measures for p-frame energies on spheres**, 
   [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)<br>
+{: style="text-align: left"}
+## Publications
 * with A. Reznikov, **Riesz energy on self-similar sets**, Proc.  Am.  Math.  Soc., accepted. 
 [doi:10.1090/proc/14663](https://doi.org/10.1090/proc/14663),
 [arXiv:1810.01557](https://arxiv.org/abs/1810.01557)<br>

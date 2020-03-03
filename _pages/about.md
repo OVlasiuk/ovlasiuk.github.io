@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Oleksandr Vlasiuk
+title: About
 ---
 
 A longer version of the CV: in [pdf](/assets/pdf/cv_web.pdf).
