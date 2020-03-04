@@ -5,10 +5,11 @@ date: 2018-12-02
 ---
 
 ## Preprints
+* **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, 
+[arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, 
 [arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
-* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal
-  measures for p-frame energies on spheres**, 
+* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, 
   [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)<br>
 {: style="text-align: left"}
 ## Publications
