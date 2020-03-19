@@ -14,22 +14,18 @@ date: 2019-03-29T17:02:20-05:00
 [Grade calculator]({{"/_pages/grad-calc" | absolute_url }})<br>
 {: style="text-indent: 0;"}
 
-<br>
 
 <b>Maxima examples</b> as a [webpage]({{"/assets/maxima.html"}}), and the original [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx]({{"/assets/notes.wxmx"}}).<br>
 {: style="text-indent: 0;"}
 
-<br>
 
 <b>Sage examples</b> as a [webpage]({{"/assets/sage_demo.html"}}), and the original Jupyter [notebook]({{"/assets/sage_demo.ipynb"}}).<br>
 {: style="text-indent: 0;"}
 
-<br>
 
 <b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage]({{"/assets/taylor.html"}}), and the original Jupyter [notebook]({{"/assets/taylor.ipynb"}}).<br>
 {: style="text-indent: 0;"}
 
-<br>
 
 Review questions
 [[1]]({{"/assets/pdf/review_1.pdf"}})
