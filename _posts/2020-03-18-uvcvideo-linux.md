@@ -1,5 +1,5 @@
 ---
-title:  Usable skypeforlinux setup with some rant-shaped backstory
+title:  Usable skypeforlinux setup with a rant of backstory
 date:   2020-03-18 08:00:00 -0500
 layout: single
 categories: Linux config
@@ -8,7 +8,12 @@ categories: Linux config
 
 ## TL;DR
 
-The following [setup](#a-somewhat-usable-setup) allows to place video calls with Skype on a Linux (Manjaro) without having the webcam to crash very often. The gory details are in [the backstory](#the-backstory). In general, it is wise to avoid reading rants on the internet.
+The following [setup](#a-somewhat-usable-setup) allows to place video calls with Skype on a Linux (Manjaro) without having the webcam to crash very often. The issues I experienced may have something to do with (i) my particular hardware (T440s); (ii) uvcvideo using multiple `/dev/video` files for a single camera. The latter can sometimes be an issue [[a]]. Read on if your `/dev/video` files often change; this also appears a common issue [[b]].
+
+[a]: https://unix.stackexchange.com/a/539573
+[b]:https://www.mythtv.org/wiki/Device_Filenames_and_udev
+
+The gory details are in [the backstory](#the-backstory). In general, it is wise to avoid reading rants on the internet.
 
 ## A somewhat usable setup
 We create a symlink to the functional video device by a `udev` rule, and use the symlink in all apps. Mysteriously it leads to fewer problems with video in calls. [udev](https://wiki.archlinux.org/index.php/Udev) is a part of systemd.
