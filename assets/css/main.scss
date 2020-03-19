@@ -101,6 +101,13 @@ $type-size-8                  : 0.625em !default;  // ~10px
     margin-left: 10%;
 }
 
+.page__content {
+    line-height: 130%;
+}
+
+.p {
+    margin-top: 2em;
+}
 
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
