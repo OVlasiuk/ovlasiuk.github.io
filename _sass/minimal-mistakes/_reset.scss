@@ -35,12 +35,12 @@ body { margin: 0; }
 
 ::-moz-selection {
   color: #fff;
-  background: #000;
+  background: $selection-color;
 }
 
 ::selection {
   color: #fff;
-  background: #000;
+  background: $selection-color;
 }
 
 /* Display HTML5 elements in IE6-9 and FF3 */
