@@ -14,7 +14,7 @@ Click on the topic title for a pdf of the notes from the video.
 |----|----------------------|------------|
 | 1  | [**_Power series_**](/assets/pdf/power_series.pdf) |            |
 |----|----------------------|------------|
-|1.1 | Definition of power series      | <a href="http://www.youtube.com/watch?feature=player_embedded&v=lIub_kTxl60 " target="_blank"><img src="http://img.youtube.com/vi/lIub_kTxl60/0.jpg" alt="video" width="240" border="10" /></a> |
+|1.1 | Definition of power series<br> The image quality is not great, and the colors are inverted. This has been corrected in subsequent videos      | <a href="http://www.youtube.com/watch?feature=player_embedded&v=lIub_kTxl60 " target="_blank"><img src="http://img.youtube.com/vi/lIub_kTxl60/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 |1.2 | Find the values of \\(x\\) that make the power series \\(\sum_k \frac{(x-3)^k}k\\) converge   | <a href="http://www.youtube.com/watch?feature=player_embedded&v=1XBUrFjWTAw " target="_blank"><img src="http://img.youtube.com/vi/1XBUrFjWTAw/0.jpg" alt="video" width="240" border="10" /></a> |
 |1.3 | Finding the regions of convergence for \\(\sum_k k!x^k \\) and the Bessel function \\( J_0 \\) | <a href="http://www.youtube.com/watch?feature=player_embedded&v=m-UFLF1WPn8 " target="_blank"><img src="http://img.youtube.com/vi/m-UFLF1WPn8/0.jpg" alt="video" width="240" border="10" /></a> |
