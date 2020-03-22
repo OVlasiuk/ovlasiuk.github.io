@@ -1,14 +1,20 @@
 ---
 title: "Teaching"
 permalink: /_pages/teaching/
-layout: splashmath
+layout: splash
 date: 2019-03-29T17:02:20-05:00
 ---
 # MAC2312 
 
+<hr>
+
+[<b>Videos</b>](/_pages/teaching_videos) — recorded versions of lectures covering power series.<br>
+{: style="text-indent: 0;"}
+
+
 <p align="center">
 <img src="../../assets/images/calc2.png" width="500" align="middle">
-</p>
+</p> 
 
 
 [Grade calculator]({{"/_pages/grad-calc" | absolute_url }})<br>
@@ -25,6 +31,7 @@ date: 2019-03-29T17:02:20-05:00
 
 <b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage]({{"/assets/taylor.html"}}), and the original Jupyter [notebook]({{"/assets/taylor.ipynb"}}).<br>
 {: style="text-indent: 0;"}
+
 
 
 Review questions
