@@ -23,6 +23,8 @@ Click on the topic title for a pdf of the notes from the video.
 |1.6 | Using the theorem from 1.5, we determine the interval of convergence (= all the values of \\(x\\) for which it converges) for the series \\( \sum_k \frac{(-3)^k x^k}{\sqrt{k+1}} \\). | <a href="http://www.youtube.com/watch?feature=player_embedded&v=_oEdGSJ7img " target="_blank"><img src="http://img.youtube.com/vi/_oEdGSJ7img/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------|
 
+---
+
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
 | 2  | [**_Representing functions by power series_**](/assets/pdf/representing_functions_power_series.pdf) |            |
