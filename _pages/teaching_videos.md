@@ -7,12 +7,16 @@ date: 2019-03-29T17:02:20-05:00
 
 <h1> MAC 2312 @ Florida State </h1>
 
-Click on the topic title for a pdf of the notes from the video.
-{: style="text-indent: 0;"}
+## Contents
+[1 Definition and basic properties of power series](#power-series)<br>
+[2 Representing functions by power series](#representing-functions-by-power-series)
+{: style="text-indent: 0; line-height: 200%;"} 
+
+## Power series
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 1  | [**_Power series_**](/assets/pdf/power_series.pdf) |            |
+| 1  | [**_Notes on power series_**](/assets/pdf/power_series.pdf) |            |
 |----|----------------------|------------|
 |1.1 | Definition of power series<br> The image quality is not great, and the colors are inverted. This has been corrected in subsequent videos      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=lIub_kTxl60 " target="_blank"><img src="https://img.youtube.com/vi/lIub_kTxl60/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
@@ -23,11 +27,13 @@ Click on the topic title for a pdf of the notes from the video.
 |1.6 | Using the theorem from 1.5, we determine the interval of convergence (= all the values of \\(x\\) for which it converges) for the series \\( \sum_k \frac{(-3)^k x^k}{\sqrt{k+1}} \\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=_oEdGSJ7img " target="_blank"><img src="https://img.youtube.com/vi/_oEdGSJ7img/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------|
 
----
+<br>
+
+## Representing functions by power series
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 2  | [**_Representing functions by power series_**](/assets/pdf/representing_functions_power_series.pdf) |            |
+| 2  | [**_Notes on representing functions by power series_**](/assets/pdf/representing_functions_power_series.pdf) |            |
 |----|----------------------|------------|
 |2.1 | Representing functions with power series using algebraic manipulations      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=SGp4IGkHHMA " target="_blank"><img src="https://img.youtube.com/vi/SGp4IGkHHMA/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
