@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "default", "air", "contrast", "dark", "di
 
 # Site Settings
 locale                   : "en"
-title                    : "Mathematipage"
-title_separator          : "-"
+title                    : ""
+title_separator          : ""
 name                     : "Alex Vlasiuk"
-description              : "Complete oeuvre in html."
+description              : "Alex's homepage."
 url                      : "https://vlasiuk.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
