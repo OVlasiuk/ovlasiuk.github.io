@@ -7,13 +7,20 @@ date: 2019-03-29T17:02:20-05:00
 
 <style type="text/css">
 table th:first-of-type {
-    width: 5%;
+width: 5%;
 }
 table th:nth-of-type(2) {
-    width: 75%;
+width: 75%;
 }
 table th:nth-of-type(3) {
-    width: 20%;
+width: 20%;
+}
+p {
+text-indent: 2em;
+margin-bottom:  2em;
+margin-left: 2em;
+line-height: 140%;
+}
 </style>
 
 
@@ -21,10 +28,12 @@ table th:nth-of-type(3) {
 
 ## Contents
 [1 Definition and basic properties of power series](#power-series)<br>
+
 [2 Representing functions by power series](#representing-functions-by-power-series)<br>
+
 [Bonus: A relation between power series and differential equations](#bonus-a-relation-between-power-series-and-differential-equations)<br>
+
 [3 Taylor and Maclaurin series](#taylor-and-maclaurin-series)<br>
-{: style="text-indent: 0; line-height: 200%;"} 
 
 ## Power series
 
@@ -87,3 +96,10 @@ table th:nth-of-type(3) {
 |3.8 | The binomial series: expansion of \\((1+x)^p\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GqG51raE534" target="_blank"><img src="https://img.youtube.com/vi/GqG51raE534/0.jpg" alt="video" width="240" border="10" /></a> |
 |3.9 | Proof of the main theorem about Taylor series from 3.1 | <a href="https://www.youtube.com/watch?feature=player_embedded&v=gJbV1Ie3qJc" target="_blank"><img src="https://img.youtube.com/vi/gJbV1Ie3qJc/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------| 
+
+<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
+<script>addBackToTop({
+  diameter: 56,
+  backgroundColor: '#f0544c',
+  textColor: '#fff'
+})</script>
