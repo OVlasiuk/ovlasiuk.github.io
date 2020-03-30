@@ -9,8 +9,8 @@ date: 2019-03-29T17:02:20-05:00
 
 ## Contents
 [1 Definition and basic properties of power series](#power-series)<br>
-[2 Representing functions by power series](#representing-functions-by-power-series)
-[3 Taylor and Maclaurin series](#taylor-and-maclaurin-series)
+[2 Representing functions by power series](#representing-functions-by-power-series)<br>
+[3 Taylor and Maclaurin series](#taylor-and-maclaurin-series)<br>
 {: style="text-indent: 0; line-height: 200%;"} 
 
 ## Power series
@@ -49,7 +49,7 @@ date: 2019-03-29T17:02:20-05:00
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 3  | [**_Notes on representing functions by power series_**](/assets/pdf/taylor_maclaurin_series.pdf) |            |
+| 3  | [**_Notes on Taylor and Maclaurin series_**](/assets/pdf/taylor_maclaurin_series.pdf) |            |
 |----|----------------------|------------|
 |3.1 | **The main theorem about Taylor series** is discussed, which gives the expressions for the coefficients in the Taylor series of a function through its derivatives      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=zMV0Qk2KjR0 " target="_blank"><img src="https://img.youtube.com/vi/zMV0Qk2KjR0/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
