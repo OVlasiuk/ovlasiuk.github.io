@@ -5,11 +5,24 @@ layout: splashmath
 date: 2019-03-29T17:02:20-05:00
 ---
 
+<style type="text/css">
+table th:first-of-type {
+    width: 5%;
+}
+table th:nth-of-type(2) {
+    width: 75%;
+}
+table th:nth-of-type(3) {
+    width: 20%;
+</style>
+
+
 <h1> MAC 2312 @ Florida State </h1>
 
 ## Contents
 [1 Definition and basic properties of power series](#power-series)<br>
 [2 Representing functions by power series](#representing-functions-by-power-series)<br>
+[Bonus: A relation between power series and differential equations](#bonus-a-relation-between-power-series-and-differential-equations)<br>
 [3 Taylor and Maclaurin series](#taylor-and-maclaurin-series)<br>
 {: style="text-indent: 0; line-height: 200%;"} 
 
@@ -19,7 +32,7 @@ date: 2019-03-29T17:02:20-05:00
 |----|----------------------|------------|
 | 1  | [**_Notes on power series_**](/assets/pdf/power_series.pdf) |            |
 |----|----------------------|------------|
-|1.1 | Definition of power series<br> The image quality is not great, and the colors are inverted. This has been corrected in subsequent videos      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=lIub_kTxl60 " target="_blank"><img src="https://img.youtube.com/vi/lIub_kTxl60/0.jpg" alt="video" width="240" border="10" /></a> |
+|1.1 | Definition of power series<br><br> The image quality is not great, and the colors are inverted. This has been corrected in subsequent videos      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=lIub_kTxl60 " target="_blank"><img src="https://img.youtube.com/vi/lIub_kTxl60/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 |1.2 | Find the values of \\(x\\) that make the power series \\(\sum_k \frac{(x-3)^k}k\\) converge   | <a href="https://www.youtube.com/watch?feature=player_embedded&v=1XBUrFjWTAw " target="_blank"><img src="https://img.youtube.com/vi/1XBUrFjWTAw/0.jpg" alt="video" width="240" border="10" /></a> |
 |1.3 | Finding the regions of convergence for \\(\sum_k k!x^k \\) and the Bessel function \\( J_0 \\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=m-UFLF1WPn8 " target="_blank"><img src="https://img.youtube.com/vi/m-UFLF1WPn8/0.jpg" alt="video" width="240" border="10" /></a> |
@@ -47,6 +60,16 @@ date: 2019-03-29T17:02:20-05:00
 
 <br>
 
+## Bonus: A relation between power series and differential equations
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+|   | [**_A relation between power series and differential equations._**](/assets/pdf/series_diff_eqns.pdf) |            |
+|----|----------------------|------------|
+| | We solve the homework question #8 from section 11.9. First, we show that the power series \\(f(x) = \sum_{n=0}^\infty \frac{x^n}{n!} \\) satisfies the differential equation \\(f'(x)=f(x)\\). Then, we solve this differential equation and verify that its unique solution with the initial condition \\(f(0)=1\\) is \\(e^x\\). This gives an alternative way to compute the power series representation for \\(e^x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=mQc5It2qhUk" target="_blank"><img src="https://img.youtube.com/vi/mQc5It2qhUk/0.jpg" alt="video" width="240" border="10" /></a> |
+
+<br>
+
 ## Taylor and Maclaurin series
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -61,7 +84,6 @@ date: 2019-03-29T17:02:20-05:00
 |3.5 | Maclaurin series for \\(\sin x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=fcxFEX5pRZE" target="_blank"><img src="https://img.youtube.com/vi/fcxFEX5pRZE/0.jpg" alt="video" width="240" border="10" /></a> |
 |3.6 | Using the previous example, we calculate the Maclaurin expansion for \\(\cos x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=830H0wkO-zg" target="_blank"><img src="https://img.youtube.com/vi/830H0wkO-zg/0.jpg" alt="video" width="240" border="10" /></a> |
 |3.7 | We apply algebraic manipulations to the series for \\(\cos x\\) in order to compute the Maclaurin series of \\(x \cos(x^3)\\) and its radius of convergence | <a href="https://www.youtube.com/watch?feature=player_embedded&v=7rqNoGXs1_w" target="_blank"><img src="https://img.youtube.com/vi/7rqNoGXs1_w/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.7a | Bonus: Relation between power series and differential equations.<br><br> We solve the homework question #8 from section 11.9. First, we show that the power series \\(f(x) = \sum_{n=0}^\infty \frac{x^n}{n!} \\) satisfies the differential equation \\(f'(x)=f(x)\\). Then, we solve this differential equation and verify that its unique solution with the same initial condition is \\(e^x\\). This gives an alternative way to compute the power series representation for \\(e^x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=mQc5It2qhUk" target="_blank"><img src="https://img.youtube.com/vi/mQc5It2qhUk/0.jpg" alt="video" width="240" border="10" /></a> |
 |3.8 | The binomial series: expansion of \\((1+x)^p\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GqG51raE534" target="_blank"><img src="https://img.youtube.com/vi/GqG51raE534/0.jpg" alt="video" width="240" border="10" /></a> |
 |3.9 | Proof of the main theorem about Taylor series from 3.1 | <a href="https://www.youtube.com/watch?feature=player_embedded&v=gJbV1Ie3qJc" target="_blank"><img src="https://img.youtube.com/vi/gJbV1Ie3qJc/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------| 
