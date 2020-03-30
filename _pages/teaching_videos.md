@@ -45,6 +45,8 @@ date: 2019-03-29T17:02:20-05:00
 |2.5 | Representing an antiderivative of a function by the power series and why it is useful | <a href="https://www.youtube.com/watch?feature=player_embedded&v=NtXEvzb5lBw    " target="_blank"><img src="https://img.youtube.com/vi/NtXEvzb5lBw/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------| 
 
+<br>
+
 ## Taylor and Maclaurin series
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
