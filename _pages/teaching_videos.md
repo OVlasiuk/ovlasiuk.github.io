@@ -17,7 +17,7 @@ width: 20%;
 }
 p {
 text-indent: 2em;
-margin-bottom:  2em;
+margin-bottom:  1.5em;
 margin-left: 2em;
 line-height: 140%;
 }
