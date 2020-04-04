@@ -21,6 +21,12 @@ margin-bottom:  1.5em;
 margin-left: 2em;
 line-height: 140%;
 }
+.emoji {
+
+    font-weight: 400;
+    font-family: apple color emoji,segoe ui emoji,noto color emoji,android emoji,emojisymbols,emojione mozilla,twemoji mozilla,segoe ui symbol;
+
+}
 </style>
 
 
@@ -34,6 +40,9 @@ line-height: 140%;
 [Bonus: A relation between power series and differential equations](#bonus-a-relation-between-power-series-and-differential-equations)<br>
 
 [3 Taylor and Maclaurin series](#taylor-and-maclaurin-series)<br>
+
+[3a Additional examples and applications of Taylor and Maclaurin
+series](#additional-examples-and-applications-of-taylor-and-maclaurin-series)<br>
 
 ## Power series
 
@@ -76,6 +85,7 @@ line-height: 140%;
 |   | [**_A relation between power series and differential equations._**](/assets/pdf/series_diff_eqns.pdf) |            |
 |----|----------------------|------------|
 | | We solve the homework question #8 from section 11.9. First, we show that the power series \\(f(x) = \sum_{n=0}^\infty \frac{x^n}{n!} \\) satisfies the differential equation \\(f'(x)=f(x)\\). Then, we solve this differential equation and verify that its unique solution with the initial condition \\(f(0)=1\\) is \\(e^x\\). This gives an alternative way to compute the power series representation for \\(e^x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=mQc5It2qhUk" target="_blank"><img src="https://img.youtube.com/vi/mQc5It2qhUk/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|------------|
 
 <br>
 
@@ -96,6 +106,23 @@ line-height: 140%;
 |3.8 | The binomial series: expansion of \\((1+x)^p\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GqG51raE534" target="_blank"><img src="https://img.youtube.com/vi/GqG51raE534/0.jpg" alt="video" width="240" border="10" /></a> |
 |3.9 | Proof of the main theorem about Taylor series from 3.1 | <a href="https://www.youtube.com/watch?feature=player_embedded&v=gJbV1Ie3qJc" target="_blank"><img src="https://img.youtube.com/vi/gJbV1Ie3qJc/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------| 
+
+
+<br>
+
+## Additional examples and applications of Taylor and Maclaurin series
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 3a  | [**_Notes on examples and applications of Taylor and Maclaurin series_**](/assets/pdf/limits_mult_div_for_series.pdf) |            |
+|----|----------------------|------------|
+|3.10 | We consider an application of the binomial series formula, obtaining the Maclaurin expansion for \\(\frac1{\sqrt{4-x}}\\)   | <a href="https://www.youtube.com/watch?feature=player_embedded&v=pcjgJblGUMQ " target="_blank"><img src="https://img.youtube.com/vi/pcjgJblGUMQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.11 | An example of computing a Taylor series — the expansion of \\(\sin x\\) around the center \\(a = \frac{\pi}{3}\\)  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=quFRTPB_vuA" target="_blank"><img src="https://img.youtube.com/vi/quFRTPB_vuA/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.12 | Using power series to compute limits <br><br> Turns out, not only power series can be used to approximate functions and compute antiderivatives, you can also use them instead of l'Hôpital's rule to evaluate limits! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=cjruHn_7iQE " target="_blank"><img src="https://img.youtube.com/vi/cjruHn_7iQE/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.13 | Example of multiplying two power series <br><br> We mentioned earlier that power series were the closest thing to infinite polynomials. In this video we show they are in fact so close to polynomials, one can multiply two power series together! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=5ldpkUo5zfg" target="_blank"><img src="https://img.youtube.com/vi/5ldpkUo5zfg/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.14 | Division of power series <br><br> If the previous video was somewhat surprising, this one is nothing short of astounding. We will perform *long division* on infinite series, just like as if they were polynomials <span class="emoji"> 😮 </span>| <a href="https://www.youtube.com/watch?feature=player_embedded&v=G_-LbEXCznA" target="_blank"><img src="https://img.youtube.com/vi/G_-LbEXCznA/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
 
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
