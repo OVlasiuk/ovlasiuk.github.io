@@ -48,6 +48,8 @@ line-height: 140%;
 
 [**4** Approximating functions with Taylor polynomials](#approximating-functions-with-taylor-polynomials)
 
+[**5** Parametric curves](#parametric-curves)
+
 ----
 
 ## Power series
@@ -140,6 +142,27 @@ line-height: 140%;
 |4.2 | Antiderivative of \\( e^{-x^2} \\) <br><br> The antiderivative of \\( e^{-x^2} \\) cannot expressed in terms of elementary functions. It **can**, however, be represented by a (Maclaurin) power series converging everywhere. We obtain such representation, demonstrating the expressiveness of power series. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=8Vew0IRdHiY" target="_blank"><img src="https://img.youtube.com/vi/8Vew0IRdHiY/0.jpg" alt="video" width="240" border="10" /></a> |
 |4.3 | Comparison of the initial Taylor polynomials <br><br> We plot the function from episode 4.2 alongside several of its Taylor polynomials and discuss the [code of the Python routine](https://vlasiuk.com/assets/taylor.html) used to produce these graphs. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=TFVnS-2JVvA" target="_blank"><img src="https://img.youtube.com/vi/TFVnS-2JVvA/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
+
+<br>
+
+## Parametric curves
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 5  | [**_Notes on parametric curves_**](/assets/pdf/parametric_curves.pdf) |            |
+|----|----------------------|------------|
+|5.1 | The definition of the parametric curve. Curve as a trajectory of motion  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=P8ukq_jwyMY" target="_blank"><img src="https://img.youtube.com/vi/P8ukq_jwyMY/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.2 | Parameter elimination technique <br><br> We introduce the primary technique for expressing a parametric curve as a regular curve: by eliminating the parameter \\(t\\). This technique is used to identify a parametric curve. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=5pFxPSow8ZE" target="_blank"><img src="https://img.youtube.com/vi/5pFxPSow8ZE/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.3 | The parametric curve \\( (x(t),\, y(t)) = (t^2, \ln t) \\) <br><br> We show that every parametric curve has two characteristics: the *shape* and the direction of *motion* of a particle along this shape. Plus, in this example we get to **reverse time** Dr. Who-style <span class="emoji"> 😮 </span> | <a href="https://www.youtube.com/watch?feature=player_embedded&v=cV_99ptavlI" target="_blank"><img src="https://img.youtube.com/vi/cV_99ptavlI/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.4 | The parametric curve \\( (x(t),\, y(t)) = (\sin t, \sin^2 t) \\) <br><br> A piece of parabola along which we oscillate back and forth  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kZ6atdOc_G8" target="_blank"><img src="https://img.youtube.com/vi/kZ6atdOc_G8/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.5 | The parametric curve \\( (x(t),\, y(t)) = (\tan^2\theta, \sec \theta  ) \\), which shows that the *range* of the parameter is important | <a href="https://www.youtube.com/watch?feature=player_embedded&v=tgh_jgAEAks" target="_blank"><img src="https://img.youtube.com/vi/tgh_jgAEAks/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.7 | Tangents to parametric curve <br><br> We look at a self-intersecting curve, which has not one, but **two** tangents at the same point! (and does not pass the vertical line test)| <a href="https://www.youtube.com/watch?feature=player_embedded&v=aTY9atlV2gk" target="_blank"><img src="https://img.youtube.com/vi/aTY9atlV2gk/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.7 | Computing **arc length** of parametric curves <br><br> The formula and an example: length of a circle | <a href="https://www.youtube.com/watch?feature=player_embedded&v=0DR3C1mU6EA" target="_blank"><img src="https://img.youtube.com/vi/0DR3C1mU6EA/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.8 | **Area of surfaces of revolution** for parametric curves <br><br> The formula and an example: area of a sphere | <a href="https://www.youtube.com/watch?feature=player_embedded&v=OuF2pYDaxa8" target="_blank"><img src="https://img.youtube.com/vi/OuF2pYDaxa8/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
 
 
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>

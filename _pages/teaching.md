@@ -8,7 +8,7 @@ date: 2019-03-29T17:02:20-05:00
 
 <hr>
 
-[<b>Videos</b>](/_pages/teaching_videos) — recorded versions of lectures covering power series.<br>
+[<b>Videos</b>](/_pages/teaching_videos) — recordings of lectures that cover power series and parametric curves.<br>
 {: style="text-indent: 0;"}
 
 
