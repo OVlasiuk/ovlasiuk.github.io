@@ -50,6 +50,10 @@ line-height: 140%;
 
 [**5** Parametric curves](#parametric-curves)
 
+[**6** Polar coordinates and applications](#polar-coordinates-and-applications)
+
+[**7** Conic sections](#conic-sections)
+
 ----
 
 ## Power series
@@ -156,14 +160,42 @@ line-height: 140%;
 |5.3 | The parametric curve \\( (x(t),\, y(t)) = (t^2, \ln t) \\) <br><br> We show that every parametric curve has two characteristics: the *shape* and the direction of *motion* of a particle along this shape. Plus, in this example we get to **reverse time** Dr. Who-style <span class="emoji"> 😮 </span> | <a href="https://www.youtube.com/watch?feature=player_embedded&v=cV_99ptavlI" target="_blank"><img src="https://img.youtube.com/vi/cV_99ptavlI/0.jpg" alt="video" width="240" border="10" /></a> |
 |5.4 | The parametric curve \\( (x(t),\, y(t)) = (\sin t, \sin^2 t) \\) <br><br> A piece of parabola along which we oscillate back and forth  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kZ6atdOc_G8" target="_blank"><img src="https://img.youtube.com/vi/kZ6atdOc_G8/0.jpg" alt="video" width="240" border="10" /></a> |
 |5.5 | The parametric curve \\( (x(t),\, y(t)) = (\tan^2\theta, \sec \theta  ) \\), which shows that the *range* of the parameter is important | <a href="https://www.youtube.com/watch?feature=player_embedded&v=tgh_jgAEAks" target="_blank"><img src="https://img.youtube.com/vi/tgh_jgAEAks/0.jpg" alt="video" width="240" border="10" /></a> |
-|5.7 | Tangents to parametric curve <br><br> We look at a self-intersecting curve, which has not one, but **two** tangents at the same point! (and does not pass the vertical line test)<br> <a href="http://www.sagemath.org/">Link to SageMath.</a>| <a href="https://www.youtube.com/watch?feature=player_embedded&v=aTY9atlV2gk" target="_blank"><img src="https://img.youtube.com/vi/aTY9atlV2gk/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.6 | Tangents to parametric curve <br><br> We look at a self-intersecting curve, which has not one, but **two** tangents at the same point! (and does not pass the vertical line test)<br> <a href="http://www.sagemath.org/">Link to SageMath.</a>| <a href="https://www.youtube.com/watch?feature=player_embedded&v=aTY9atlV2gk" target="_blank"><img src="https://img.youtube.com/vi/aTY9atlV2gk/0.jpg" alt="video" width="240" border="10" /></a> |
 |5.7 | Computing **arc length** of parametric curves <br><br> The formula and an example: length of a circle | <a href="https://www.youtube.com/watch?feature=player_embedded&v=0DR3C1mU6EA" target="_blank"><img src="https://img.youtube.com/vi/0DR3C1mU6EA/0.jpg" alt="video" width="240" border="10" /></a> |
 |5.8 | **Area of surfaces of revolution** for parametric curves <br><br> The formula and an example: area of a sphere | <a href="https://www.youtube.com/watch?feature=player_embedded&v=OuF2pYDaxa8" target="_blank"><img src="https://img.youtube.com/vi/OuF2pYDaxa8/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
 
+## Polar coordinates and applications
 
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 6  | [**_Notes on polar coordinates and applications_**](/assets/pdf/polar_curves.pdf) |            |
+|----|----------------------|------------|
+|6.1 | Definition of the polar coordinate system| <a href="https://www.youtube.com/watch?feature=player_embedded&v=jk1u_JlhT0M" target="_blank"><img src="https://img.youtube.com/vi/jk1u_JlhT0M/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.2 | **Conversion formulas**: converting between Cartesian and polar coordinates| <a href="https://www.youtube.com/watch?feature=player_embedded&v=sQOK1Ui9eWE" target="_blank"><img src="https://img.youtube.com/vi/sQOK1Ui9eWE/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.3 | Polar curves, definition and simple examples | <a href="https://www.youtube.com/watch?feature=player_embedded&v=U_x9z3LgNDE" target="_blank"><img src="https://img.youtube.com/vi/U_x9z3LgNDE/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.4 | **Sketching** polar curves, illustrated for the cardioid | <a href="https://www.youtube.com/watch?feature=player_embedded&v=J_7hRv3Et_0" target="_blank"><img src="https://img.youtube.com/vi/J_7hRv3Et_0/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.5 | Polar curves from the parametric perspective <br><br> We treat polar curves as a special case of parametric curves and establish the formulas for **slope** and **arc length** of a polar curve <br> This and the following video suffer from a nasty reverb <span class="emoji"> 😞 </span> | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kV840xCI4jw" target="_blank"><img src="https://img.youtube.com/vi/kV840xCI4jw/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.6 | To illustrate arc length formula for polar curves, we evaluate the length of the cardioid, which results in a tricky integral | <a href="https://www.youtube.com/watch?feature=player_embedded&v=BS5230j9wHg" target="_blank"><img src="https://img.youtube.com/vi/BS5230j9wHg/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Conic sections
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 7  | [**_Notes on conic sections_**](/assets/pdf/conic_sections.pdf) |            |
+|----|----------------------|------------|
+|7.1 | We discuss various conic sections and show how to obtain them by intersecting the double cone with a plane | <a href="https://www.youtube.com/watch?feature=player_embedded&v=q032KbL3Eq8" target="_blank"><img src="https://img.youtube.com/vi/q032KbL3Eq8/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.2 | Parabola: geometric characterization and equation | <a href="https://www.youtube.com/watch?feature=player_embedded&v=AY2rLV_woEw" target="_blank"><img src="https://img.youtube.com/vi/AY2rLV_woEw/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.3 | Ellipse: geometric characterization and equation | <a href="https://www.youtube.com/watch?feature=player_embedded&v=h_tt3vJM8rs" target="_blank"><img src="https://img.youtube.com/vi/h_tt3vJM8rs/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.4 | Hyperbola: geometric characterization and equation  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=xcVbweU_m08" target="_blank"><img src="https://img.youtube.com/vi/xcVbweU_m08/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
 
 <script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
 <script>addBackToTop({
