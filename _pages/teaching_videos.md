@@ -179,6 +179,9 @@ line-height: 140%;
 |6.4 | **Sketching** polar curves, illustrated for the cardioid | <a href="https://www.youtube.com/watch?feature=player_embedded&v=J_7hRv3Et_0" target="_blank"><img src="https://img.youtube.com/vi/J_7hRv3Et_0/0.jpg" alt="video" width="240" border="10" /></a> |
 |6.5 | Polar curves from the parametric perspective <br><br> We treat polar curves as a special case of parametric curves and establish the formulas for **slope** and **arc length** of a polar curve <br> This and the following video suffer from a nasty reverb <span class="emoji"> 😞 </span> | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kV840xCI4jw" target="_blank"><img src="https://img.youtube.com/vi/kV840xCI4jw/0.jpg" alt="video" width="240" border="10" /></a> |
 |6.6 | To illustrate arc length formula for polar curves, we evaluate the length of the cardioid, which results in a tricky integral | <a href="https://www.youtube.com/watch?feature=player_embedded&v=BS5230j9wHg" target="_blank"><img src="https://img.youtube.com/vi/BS5230j9wHg/0.jpg" alt="video" width="240" border="10" /></a> |
+|   | [**_Notes on areas in polar coordinates_**](/assets/pdf/polar_area.pdf) |            |
+|6.7 | Formula for computing **areas in polar coordinates** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=JqhOILVm1pc" target="_blank"><img src="https://img.youtube.com/vi/JqhOILVm1pc/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.8 | An example for area in polar coordinates: the region inside the circle \\(r = 3\sin \theta\\) and outside the cardioid \\(r = 1+\sin\theta\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=i9L-r9HOCQY" target="_blank"><img src="https://img.youtube.com/vi/i9L-r9HOCQY/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
