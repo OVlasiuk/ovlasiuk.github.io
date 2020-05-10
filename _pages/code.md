@@ -32,7 +32,12 @@ theorem about this is left as an exercise to the reader for now.
 The Github repo for BRieszk is [here][2].
 
 
-![Tangle 1]({{ "/assets/images/tangle40k_1.png" | absolute_url}})|![Tangle 2]({{ "/assets/images/tangle40k_2.png" | absolute_url}})
+<!-- ![Tangle 1]({{ "/assets/images/tangle40k_1.png" | absolute_url}})|![Tangle 2]({{ "/assets/images/tangle40k_2.png" | absolute_url}}) -->
+
+<div style="text-align: center">
+<img src="/assets/images/tangle40k_1.png" width="400" >
+<img src="/assets/images/tangle40k_2.png" width="400" >
+</div>
 
 # 3dRBFnodes
 Along the same lines, one can produce reasonable nodes for RBF-functions and use
@@ -44,7 +49,10 @@ code overlap with BRieszk. A detailed discussion is contained in the
 The Github repo for 3dRBFnodes is [here][4]. Below are two pictures showing
 Andes, the one on the right is color-coded by elevation.
 
-![Andes 1]({{ "https://raw.githubusercontent.com/OVlasiuk/3dRBFnodes/master/img/andes.png" }})|![Andes 2]({{ "https://raw.githubusercontent.com/OVlasiuk/3dRBFnodes/master/img/andes_scatter.png" }})
+<div style="text-align: center">
+<img src="/assets/images/andes.png" width="400" >
+<img src="/assets/images/andes_scatter.png" width="400" >
+</div>
 
 [1]: https://en.wikipedia.org/wiki/Poppy-seed_bagel_theorem
 [2]: https://github.com/OVlasiuk/BRieszk

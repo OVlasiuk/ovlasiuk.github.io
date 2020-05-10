@@ -4,7 +4,7 @@ title: Alex Vlasiuk
 author_profile: false
 ---
 <div style="text-align: center">
-<img src="/assets/images/st_george_isl.jpg" width="200" style="border-radius: 10%;" />
+<img src="/assets/images/st_george_isl.jpg" width="200" style="border-radius: 10%;" >
 </div>
 
 Welcome to my homepage! I am presently a postdoc in the Mathematics Department at Florida State University, working with [Alexander Reznikov](https://www.math.fsu.edu/~reznikov/).

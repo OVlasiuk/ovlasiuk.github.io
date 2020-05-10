@@ -1,17 +1,27 @@
 ---
 title:  "Grade calculator for MAC2312"
 date:   2019-12-03 08:00:00 -0500
-layout: single
+layout: splash
 categories: Teaching
 
 --- 
 
+<style type="text/css">
+.form-horizontal {
+width: 60%;
+margin-left: 20%;
+}
+</style>
+
+
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/css/bootstrap.css">
 <script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
 </head>
+
+# Grade calculator for MAC2312
 
 <div class="container">
 <p>
@@ -29,17 +39,17 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 </div>
 </div>
 
+<br>
 <div class="form-group">
 <label class="col-md-2 control-label" for="one"> Test 1 </label> 
 <div class="col-md-3">
 <input id="one" placeholder="100" class="form-control input-md" type="text">
-<span class="help-block"> Grade you received on test 1</span>
+<!-- <span class="help-block"> Grade you received on test 1</span> -->
 </div>
 
 <label class="col-md-2 control-label" for="two"> Test 2 </label> 
 <div class="col-md-3">
 <input id="two" placeholder="100" class="form-control input-md" type="text">
-<span class="help-block"> Grade you received on test 2</span>
 </div>
 </div>
 
@@ -47,13 +57,11 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <label class="col-md-2 control-label" for="three"> Test 3 </label> 
 <div class="col-md-3">
 <input id="three" placeholder="100" class="form-control input-md" type="text">
-<span class="help-block"> Grade you received on test 3</span>
 </div>
 
 <label class="col-md-2 control-label" for="four"> Test 4 </label> 
 <div class="col-md-3">
 <input id="four" placeholder="100" class="form-control input-md" type="text">
-<span class="help-block"> Grade you received on test 4</span>
 </div>
 </div>
 
@@ -66,13 +74,15 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 </div>
 </div>
 
+<br>
+
 <div class="form-group">
-<label class="col-md-4 control-label" for="result"> Your grade: </label> 
+<label class="col-md-4 control-label" for="result"><b> Your grade: </b> </label> 
 <div class="col-md-4">
-<div id="result" class="form-control">
+<div id="result" class="form-control" style="font-weight: bold;">
 </div>
-<span class="help-block">The resulting grade for this class, assuming you performed as
-shown above</span>
+<!-- <span class="help-block">The resulting grade for this class, assuming you performed as -->
+<!-- shown above</span> -->
 </div>
 </div>
 
