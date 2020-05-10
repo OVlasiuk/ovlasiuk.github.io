@@ -2,12 +2,6 @@
 ---
 
 <!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.6.0 by Michael Rose
-  Copyright 2017 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE.txt
--->
 <html lang="{{ site.locale | slice: 0,2 | default: "en" }}" class="no-js">
   <head>
     {% include head.html %}
@@ -16,7 +10,6 @@
 
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
-    {% include browser-upgrade.html %}
     {% include masthead_home.html %}
 
 {% if page.header.overlay_color or page.header.overlay_image or page.header.image %}
@@ -66,14 +59,8 @@
         {% endif %}
       </footer>
 
-      {% if page.share %}{% include social-share.html %}{% endif %}
-
       {% include post_pagination.html %}
-    </div>
-
-    {% if site.comments.provider and page.comments %}
-      {% include comments.html %}
-    {% endif %}
+    </div> 
   </article>
 
   {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}

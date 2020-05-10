@@ -40,7 +40,7 @@ Final study guide:
 </p> 
 
 
-[**Grade calculator**]({{"/_pages/grad-calc" | absolute_url }}) computes your
+[**Grade calculator**]({{"/_pages/grade-calc" | absolute_url }}) computes your
 grade using the formula from syllabus.<br>
 
 

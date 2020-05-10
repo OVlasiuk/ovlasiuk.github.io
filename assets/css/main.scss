@@ -111,5 +111,5 @@ $type-size-8                  : 0.625em !default;  // ~10px
 }
 
 
-@import "skins/default"; // {{ site.minimal_mistakes_skin | default: 'default' }}
+@import "skin"; // {{ site.minimal_mistakes_skin | default: 'default' }}
 @import "minipage"; // main partials
