@@ -6,18 +6,18 @@ categories: Teaching
 
 --- 
 
-<style type="text/css">
-.form-horizontal {
-width: 60%;
-margin-left: 20%;
-}
-</style>
+<!-- <style type="text/css"> -->
+<!-- .form-horizontal { -->
+<!-- width: 60%; -->
+<!-- margin-left: 20%; -->
+<!-- } -->
+<!-- </style> -->
 
 
 <head>
 <meta charset="utf-8">
-<link rel="stylesheet" href="assets/css/bootstrap.css">
-<script src="https://code.jquery.com/jquery-1.11.3.min.js"></script>
+<link rel="stylesheet" href="/assets/css/bootstrap.css">
+<script src="/assets/js/jquery-1.11.3.min.js"></script>
 <!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
 </head>
 
@@ -81,8 +81,8 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <div class="col-md-4">
 <div id="result" class="form-control" style="font-weight: bold;">
 </div>
-<!-- <span class="help-block">The resulting grade for this class, assuming you performed as -->
-<!-- shown above</span> -->
+<span class="help-block">The resulting grade for this class, assuming you performed as
+above</span>
 </div>
 </div>
 
