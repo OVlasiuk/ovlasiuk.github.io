@@ -23,7 +23,7 @@ Advisor: Igor Shevchuk<br>
 
 
 ## Research interests
- See [Publications](/_pages/publist).<br>
+ See [publications](/_pages/math).<br>
 <div class="page__list">
 <li> Optimization on probability spaces; extremal measures, potential theory.</li>
 <li> Geometric measure theory, rectifiability; discretizing manifolds, configurations with bounded mesh ratio. </li>
@@ -32,7 +32,7 @@ Advisor: Igor Shevchuk<br>
 </div>
 
 ## Computational skills
- See [Code](/_pages/code).<br>
+ See [code](/_pages/code).<br>
  C/C++, Python; Matlab, R<br> 
 
 <!-- ## Activities -->

@@ -23,5 +23,9 @@ date: 2018-12-02
 [doi:10.1007/s11118-017-9618-x](https://doi.org/10.1007/s11118-017-9618-x) <br>
 * with D. P. Hardin and E. B. Saff, **Generating Point Configurations via Hypersingular Riesz Energy with an External Field**, SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673. 
 [doi:10.1137/16m107414x](https://doi.org/10.1137/16M107414X)<br>
-* with D. Leviatan and I. A. Shevchuk, **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  
-[doi:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>
+* with D. Leviatan and I. A. Shevchuk, **Positive results and counterexamples in comonotone approximation II**, J. Approx. Theory  179  (2014), 1--23.  [doi:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>
+
+## Other
+{: style="margin-top: 3cm"}
+
+* **Log-energy, β-ensembles, and tessellations: problems old and new** (2018), [\[pdf\]](../assets/pdf/ICERM18problems.pdf)<br>

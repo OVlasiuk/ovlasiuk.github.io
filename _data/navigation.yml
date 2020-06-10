@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "papers"
-    url: /_pages/publist
+  - title: "math"
+    url: /_pages/math
   - title: "code"
     url: /_pages/code
   - title: "teaching"

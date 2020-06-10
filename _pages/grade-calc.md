@@ -18,7 +18,6 @@ categories: Teaching
 <meta charset="utf-8">
 <link rel="stylesheet" href="/assets/css/bootstrap.css">
 <script src="/assets/js/jquery-1.11.3.min.js"></script>
-<!-- <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script> -->
 </head>
 
 # Grade calculator for MAC2312

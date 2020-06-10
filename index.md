@@ -11,7 +11,7 @@ Welcome to my homepage! I am presently a postdoc in the Mathematics Department a
 {: style="margin-top: 10%; margin-left: 12%; margin-right: 12%; text-align: justify"}
 <br>
 
-My research is in convex and [computational](/_pages/code) geometry, geometric measure theory, and [behavior of minimizers](/_pages/publist) of variational functionals. In the free time I read gcc error messages and fix my bicycle.
+My research is in convex and [computational](/_pages/code) geometry, geometric measure theory, and [behavior of minimizers](/_pages/math) of variational functionals. In the free time I read gcc error messages and fix my bicycle.
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
 <br>
 
