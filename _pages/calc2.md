@@ -18,6 +18,10 @@ p{
 
 <hr>
 
+[<b> Lecture videos </b>](/_pages/calc2_lectures) <br>
+
+<hr>
+
 <b>Review questions</b><br>
 [[1]]({{"/assets/pdf/review_1.pdf"}})&emsp;
 [[2]]({{"/assets/pdf/review_2.pdf"}})&emsp;
@@ -38,18 +42,17 @@ Final study guide:
 </p> 
 
 
-[**Grade calculator**]({{"/_pages/grade-calc" | absolute_url }}) computes your
-grade using the formula from syllabus.<br>
+[**Grade calculator**](/_pages/grade-calc) computes your grade using the formula from syllabus.<br>
 
 
-<b>Maxima examples</b> as a [webpage]({{"/assets/maxima.html"}}), and the original [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx]({{"/assets/notes.wxmx"}}).<br>
+<b>Maxima examples</b> as a [webpage](/assets/maxima.html), and the original [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx](/assets/notes.wxmx).<br>
 
 
-<b>Sage examples</b> as a [webpage]({{"/assets/sage_demo.html"}}), and the original Jupyter [notebook]({{"/assets/sage_demo.ipynb"}}).<br>
+<b>Sage examples</b> as a [webpage](/assets/sage_demo.html), and the original Jupyter [notebook](/assets/sage_demo.ipynb).<br>
 
 
-<b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage]({{"/assets/taylor.html"}}), and the original Jupyter [notebook]({{"/assets/taylor.ipynb"}}).<br>
+<b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage](/assets/taylor.html), and the original Jupyter [notebook](/assets/taylor.ipynb).<br>
 {: style="text-indent: 0;"}
 
 
-[<b>Video archive Spring 2020</b>](/_pages/teaching_videos) — recordings of lectures that cover power series and parametric curves.<br>
+[<b>Video archive Spring 2020</b>](/_pages/vid_archive) — recordings of lectures that cover power series and parametric curves.<br>

@@ -1,6 +1,6 @@
 ---
 title: "Teaching"
-permalink: /_pages/teaching_videos/
+permalink: /_pages/vid_archive/
 layout: splashmath
 date: 2019-03-29T17:02:20-05:00
 ---
