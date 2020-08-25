@@ -41,11 +41,16 @@ line-height: 140%;
 
 ----
 
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+|0.0 | Welcome video | <a href="https://youtu.be/UyvHG9H3Qzs" target="_blank"><img src="https://img.youtube.com/vi/UyvHG9H3Qzs/0.jpg" alt="video" width="240" border="10" /></a> |
+
+
 ## Integration by parts
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-|0.0 | Welcome video | <a href="https://youtu.be/UyvHG9H3Qzs" target="_blank"><img src="https://img.youtube.com/vi/UyvHG9H3Qzs/0.jpg" alt="video" width="240" border="10" /></a> |
+| 1  | [**_Notes on integration by parts_**](/assets/pdf/integration_by_parts.pdf) |            |
 |----|----------------------|------------|
 |1.1 | Integration by parts: motivation and **formula**     | <a href="https://www.youtube.com/watch?feature=player_embedded&v=ArO4S1-73ww" target="_blank"><img src="https://img.youtube.com/vi/ArO4S1-73ww/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
@@ -53,6 +58,8 @@ line-height: 140%;
 |1.3 | How to **not** integrate \\(x \sin x\\) <br><br> Do not repeat at home | <a href="https://www.youtube.com/watch?feature=player_embedded&v=zb-em1OR30w" target="_blank"><img src="https://img.youtube.com/vi/zb-em1OR30w/0.jpg" alt="video" width="240" border="10" /></a> |
 |1.4 | Getting rid of the second power of \\( t\\) by integrating by parts <br><br> Do repeat at home (twice) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=0BjN8N0NPM8" target="_blank"><img src="https://img.youtube.com/vi/0BjN8N0NPM8/0.jpg" alt="video" width="240" border="10" /></a> |
 |1.5 | Integrating inverse functions and definite integrals by parts | <a href="https://www.youtube.com/watch?feature=player_embedded&v=SxADw8RADKU" target="_blank"><img src="https://img.youtube.com/vi/SxADw8RADKU/0.jpg" alt="video" width="240" border="10" /></a> |
+|1.6 | Integration by parts with moving terms to the other side <br><br> In this example, we repeatedly integrate by parts and move some of the terms around to arrive at the answer | <a href="https://www.youtube.com/watch?feature=player_embedded&v=QKUq38wN02E" target="_blank"><img src="https://img.youtube.com/vi/QKUq38wN02E/0.jpg" alt="video" width="240" border="10" /></a> |
+|1.7 | We obtain the **reduction formula** for \\(\sin x\\) <br><br> This example shows how trig identities will be useful for integration, and prepares us for the next section | <a href="https://www.youtube.com/watch?feature=player_embedded&v=BdSRcrqRNR4" target="_blank"><img src="https://img.youtube.com/vi/BdSRcrqRNR4/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------|
 
 <br>
