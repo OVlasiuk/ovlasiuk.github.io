@@ -41,6 +41,8 @@ line-height: 140%;
 
 [**1** Integration by parts](#integration-by-parts)
 
+[**2** Trigonometric integrals](#trigonometric-integrals)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -66,7 +68,25 @@ line-height: 140%;
 
 <br>
 
+## Trigonometric integrals
 
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 2  | [**_Notes on trigonometric integrals_**](/assets/pdf/trig_ints.pdf) |            |
+|----|----------------------|------------|
+|2.1 | What is a trigonometric integral | <a href="https://www.youtube.com/watch?feature=player_embedded&v=xCI7OVfMz-8" target="_blank"><img src="https://img.youtube.com/vi/xCI7OVfMz-8/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|2.2 | We integrate \\(\sin^5 x \, \cos^2 x \\) <br><br> What is common to these products so far? | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Loj-AwuJui8" target="_blank"><img src="https://img.youtube.com/vi/Loj-AwuJui8/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.3 | Applying half-angle formulas <br><br> After realizing that the previous examples contain odd degrees of \\(\sin, \cos\\), we discuss dealing with even powers | <a href="https://www.youtube.com/watch?feature=player_embedded&v=HGwIyU6ylZI" target="_blank"><img src="https://img.youtube.com/vi/HGwIyU6ylZI/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.4 | In order to integrate \\(\sin^4 x\\), half-angle formulas have to be applied repeatedly | <a href="https://www.youtube.com/watch?feature=player_embedded&v=usUPy-5ZLeY" target="_blank"><img src="https://img.youtube.com/vi/usUPy-5ZLeY/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.5 | The above examples are summarized into a general **strategy for integrating products of \\(\sin x\\) and \\(\cos x\\)** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=z1So2P8Sq0Y" target="_blank"><img src="https://img.youtube.com/vi/z1So2P8Sq0Y/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.6 | What is essential about our integration strategy? Why does it work? | <a href="https://www.youtube.com/watch?feature=player_embedded&v=K789XnTugLI" target="_blank"><img src="https://img.youtube.com/vi/K789XnTugLI/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.7 | Examples of integrating products of \\(\tan x\\) and \\(\sec x\\)| <a href="https://www.youtube.com/watch?feature=player_embedded&v=jHCfsWmfGf4" target="_blank"><img src="https://img.youtube.com/vi/jHCfsWmfGf4/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.8 | A general **strategy for products of \\(\tan x\\) and \\(\sec x\\)** is obtained in this video| <a href="https://www.youtube.com/watch?feature=player_embedded&v=BxaRXCh4VLI" target="_blank"><img src="https://img.youtube.com/vi/BxaRXCh4VLI/0.jpg" alt="video" width="240" border="10" /></a> |
+|2.9 | Some special cases not covered by the strategy for \\(\tan x\\) and \\(\sec x\\) <br><br> Some products of \\(\tan x\\) and \\(\sec x\\) are still not covered by our general strategy. This video discusses how to use the Pythagorean identity and integration by parts to obtain reduction formulas for such cases, not covered previously. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=dVfBByIt84k" target="_blank"><img src="https://img.youtube.com/vi/dVfBByIt84k/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
+
+<br>
 
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
