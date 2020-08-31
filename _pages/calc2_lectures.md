@@ -43,6 +43,8 @@ line-height: 140%;
 
 [**2** Trigonometric integrals](#trigonometric-integrals)
 
+[**3** Trigonometric substitution](#trigonometric-substitution)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -88,6 +90,22 @@ line-height: 140%;
 
 <br>
 
+## Trigonometric substitution
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 3  | [**_Notes on trigonometric substitution_**](/assets/pdf/trig_sub.pdf) |            |
+|----|----------------------|------------|
+|3.1 | Motivation for trig sub <br><br> Evidence that trig sub shows up in some natural integrals. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=AunvBXqFM9w " target="_blank"><img src="https://img.youtube.com/vi/AunvBXqFM9w/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|3.2 | **Main table** of trigonometric substitutions <br><br> We summarize the motivational examples into a table of different trig subs and identities that explain them. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=aIKfp4qzIBE" target="_blank"><img src="https://img.youtube.com/vi/aIKfp4qzIBE/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.3 | Substituting \\(x = a \sin\theta\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=cR0srl0Ca50" target="_blank"><img src="https://img.youtube.com/vi/cR0srl0Ca50/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.4 | Substituting \\(x = a \sec\theta\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=YwDc2r6lTtQ" target="_blank"><img src="https://img.youtube.com/vi/YwDc2r6lTtQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.5 | Definite integrals with trig sub and handling coefficients on \\(x^2\\) <br><br> Instead of \\(\pm x^2 \pm a^2\\) under the radical, in this example we have  \\(\pm c^2 x^2 \pm a^2\\). We show how to factor out the coefficient at \\(x^2\\) from the integral. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=4BXE5rqVjQg" target="_blank"><img src="https://img.youtube.com/vi/4BXE5rqVjQg/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.6 | **Completing the square** to apply a trig sub <br><br> In this example, expression under the square root is not of the form \\(\pm x^2 \pm a^2\\), but instead a complete quadratic polynomial. We show how to reduce it to the standard form. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=EgO42Pphf9g" target="_blank"><img src="https://img.youtube.com/vi/EgO42Pphf9g/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
+
+<br>
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
