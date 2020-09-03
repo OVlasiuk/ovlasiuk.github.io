@@ -45,6 +45,8 @@ line-height: 140%;
 
 [**3** Trigonometric substitution](#trigonometric-substitution)
 
+[**4** Partial fractions](#partial-fractions)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -106,6 +108,19 @@ line-height: 140%;
 |----|----------------------+------------|
 
 <br>
+
+## Partial fractions
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 3  | [**_Notes on partial fraction decomposition_**](/assets/pdf/partial_fractions.pdf) |            |
+|----|----------------------|------------|
+|3.1 | Motivation for partial fraction decomposition <br><br> Definition of a rational function and the general idea of partial fraction decomposition | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kBfTuk20Iy8" target="_blank"><img src="https://img.youtube.com/vi/kBfTuk20Iy8/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|3.2 | **Main table** of partial fraction decomposition <br><br> An overview of the algorithm for partial fraction decomposition and a table for the partial fractions corresponding to different irreducible factors in denominator. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XqtHywxQxCc" target="_blank"><img src="https://img.youtube.com/vi/XqtHywxQxCc/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.3 | Long division and unique linear factors <br><br> We use long division to split an improper rational function into a sum of a polynomial with a proper part. In the second example, we integrate a rational function with unique (nonrepeating) factors in the denominator. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UViGSTGrkEY" target="_blank"><img src="https://img.youtube.com/vi/UViGSTGrkEY/0.jpg" alt="video" width="240" border="10" /></a> |
+|3.4 | Repeated linear factors <br><br> An example of a rational function with repeated linear factors in the denominator. We determine the coefficient by **equating the coefficients** for the powers of \\(x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=sj7R69-bGnY" target="_blank"><img src="https://img.youtube.com/vi/sj7R69-bGnY/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
