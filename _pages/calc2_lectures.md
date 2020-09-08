@@ -47,6 +47,10 @@ line-height: 140%;
 
 [**4** Partial fractions](#partial-fractions)
 
+[**5** Summary of integration techniques](#summary-of-integration-techniques)
+
+[**6** Improper integrals](#improper-integrals)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -113,17 +117,49 @@ line-height: 140%;
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 3  | [**_Notes on partial fraction decomposition_**](/assets/pdf/partial_fractions.pdf) |            |
+| 4  | [**_Notes on partial fraction decomposition_**](/assets/pdf/partial_fractions.pdf) |            |
 |----|----------------------|------------|
-|3.1 | Motivation for partial fraction decomposition <br><br> Definition of a rational function and the general idea of partial fraction decomposition | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kBfTuk20Iy8" target="_blank"><img src="https://img.youtube.com/vi/kBfTuk20Iy8/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.1 | Motivation for partial fraction decomposition <br><br> Definition of a rational function and the general idea of partial fraction decomposition | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kBfTuk20Iy8" target="_blank"><img src="https://img.youtube.com/vi/kBfTuk20Iy8/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
-|3.2 | **Main table** of partial fraction decomposition <br><br> An overview of the algorithm for partial fraction decomposition and a table for the partial fractions corresponding to different irreducible factors in denominator. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XqtHywxQxCc" target="_blank"><img src="https://img.youtube.com/vi/XqtHywxQxCc/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.3 | Long division and unique linear factors <br><br> We use long division to split an improper rational function into a sum of a polynomial with a proper part. In the second example, we integrate a rational function with unique (nonrepeated) factors in the denominator. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UViGSTGrkEY" target="_blank"><img src="https://img.youtube.com/vi/UViGSTGrkEY/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.4 | Repeated linear factors <br><br> An example of a rational function with repeated linear factors in the denominator. We determine the coefficient by **equating the coefficients** for the powers of \\(x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=sj7R69-bGnY" target="_blank"><img src="https://img.youtube.com/vi/sj7R69-bGnY/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.5 | Unique quadratic factors <br><br> Integration of a rational function with unique (nonrepeated) irreducible quadratic terms. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kSx2aEH0ALc" target="_blank"><img src="https://img.youtube.com/vi/kSx2aEH0ALc/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.6 | Repeated quadratic factors <br><br> Integration of functions with repeated irreducible quadratic terms. In particular, we see how to apply trig sub to negative powers of \\(1+x^2\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GlNHPBIrAM4" target="_blank"><img src="https://img.youtube.com/vi/GlNHPBIrAM4/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.7 | Completing a square in a partial fraction <br><br> We demonstrate how to integrate a partial fraction with an irreducible quadratic factor by completing a square, and applying a u-sub. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=qrKF7VrTUWg" target="_blank"><img src="https://img.youtube.com/vi/qrKF7VrTUWg/0.jpg" alt="video" width="240" border="10" /></a> |
-|3.8 | Rationalizing substitution <br><br> When integrating an expression with an n-th order root, we introduce a u-sub equal to this root, and reduce the problem to integration of a rational function. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=M_IXw1wj6sg" target="_blank"><img src="https://img.youtube.com/vi/M_IXw1wj6sg/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.2 | **Main table** of partial fraction decomposition <br><br> An overview of the algorithm for partial fraction decomposition and a table for the partial fractions corresponding to different irreducible factors in denominator. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XqtHywxQxCc" target="_blank"><img src="https://img.youtube.com/vi/XqtHywxQxCc/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.3 | Long division and unique linear factors <br><br> We use long division to split an improper rational function into a sum of a polynomial with a proper part. In the second example, we integrate a rational function with unique (nonrepeated) factors in the denominator. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UViGSTGrkEY" target="_blank"><img src="https://img.youtube.com/vi/UViGSTGrkEY/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.4 | Repeated linear factors <br><br> An example of a rational function with repeated linear factors in the denominator. We determine the coefficient by **equating the coefficients** for the powers of \\(x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=sj7R69-bGnY" target="_blank"><img src="https://img.youtube.com/vi/sj7R69-bGnY/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.5 | Unique quadratic factors <br><br> Integration of a rational function with unique (nonrepeated) irreducible quadratic terms. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=kSx2aEH0ALc" target="_blank"><img src="https://img.youtube.com/vi/kSx2aEH0ALc/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.6 | Repeated quadratic factors <br><br> Integration of functions with repeated irreducible quadratic terms. In particular, we see how to apply trig sub to negative powers of \\(1+x^2\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GlNHPBIrAM4" target="_blank"><img src="https://img.youtube.com/vi/GlNHPBIrAM4/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.7 | Completing a square in a partial fraction <br><br> We demonstrate how to integrate a partial fraction with an irreducible quadratic factor by completing a square, and applying a u-sub. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=qrKF7VrTUWg" target="_blank"><img src="https://img.youtube.com/vi/qrKF7VrTUWg/0.jpg" alt="video" width="240" border="10" /></a> |
+|4.8 | Rationalizing substitution <br><br> When integrating an expression with an n-th order root, we introduce a u-sub equal to this root, and reduce the problem to integration of a rational function. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=M_IXw1wj6sg" target="_blank"><img src="https://img.youtube.com/vi/M_IXw1wj6sg/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
+
+<br>
+
+
+## Summary of integration techniques
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 5  | [**_Notes on the integration strategy_**](/assets/pdf/integration_strategy.pdf) |            |
+|----|----------------------|------------|
+|5.1 | An overview of integration heuristics | <a href="https://www.youtube.com/watch?feature=player_embedded&v=aq3NwaXvUpI" target="_blank"><img src="https://img.youtube.com/vi/aq3NwaXvUpI/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|5.2 | Examples 1-2   <br><br> These examples illustrate simplification of the integrand before integration and combining two different techniques: u-sub and integration by parts. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UPW1CWlrxp8" target="_blank"><img src="https://img.youtube.com/vi/UPW1CWlrxp8/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.3 | Examples 3-5 <br><br> A discussion of the PFD and the usefulness of algebraic transformations, such as multiplying by the conjugate expression. |  <a href="https://www.youtube.com/watch?feature=player_embedded&v=earolxDwFv4" target="_blank"><img src="https://img.youtube.com/vi/earolxDwFv4/0.jpg" alt="video" width="240" border="10" /></a> |
+|5.4 | Conclusion: not all expressions have antiderivatives in elementary functions <br><br> Our course just scratches the surface of the vast functional universe. The antiderivatives of some of its inhabitants can only be expressed through special functions (error function, Bessel functions, etc), others don't have a nice representation at all. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=-ztLCX3abzI" target="_blank"><img src="https://img.youtube.com/vi/-ztLCX3abzI/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
+
+<br>
+
+
+## Improper integrals
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 6  | [**_Notes on improper integrals_**](/assets/pdf/improper_integrals.pdf) |            |
+|----|----------------------|------------|
+|6.1 | **Definition** of an improper integral | <a href="https://www.youtube.com/watch?feature=player_embedded&v=wlZhFL2rbf8" target="_blank"><img src="https://img.youtube.com/vi/wlZhFL2rbf8/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|6.2 | Convergence of the integral of \\(1/x^p\\) for different values of \\(p\\)| <a href="https://www.youtube.com/watch?feature=player_embedded&v=QwYO1wuSu7A" target="_blank"><img src="https://img.youtube.com/vi/QwYO1wuSu7A/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.3 | Using integration by parts in improper integrals|  <a href="https://www.youtube.com/watch?feature=player_embedded&v=fxzBNulz578" target="_blank"><img src="https://img.youtube.com/vi/fxzBNulz578/0.jpg" alt="video" width="240" border="10" /></a> |
+|6.4 | Improper integrals of type II and the **comparison theorem** <br><br> Improper integrals of the second type contain a function that becomes infinite at some point of the integration interval. We also discuss the comparison theorem and see its application to integral of \\(e^{-x^2}\\). Specifically, even though this function does not have an antiderivative in elementary functions, we are able to determine that its improper integral converges. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Y4YF-SyoZ5s" target="_blank"><img src="https://img.youtube.com/vi/Y4YF-SyoZ5s/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------|
 
 <br>
