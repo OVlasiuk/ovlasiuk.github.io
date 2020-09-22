@@ -53,6 +53,10 @@ line-height: 140%;
 
 ----
 
+[**7** Separable differential equations](#separable-differential-equations)
+
+----
+
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
 |0.0 | Welcome video | <a href="https://youtu.be/UyvHG9H3Qzs" target="_blank"><img src="https://img.youtube.com/vi/UyvHG9H3Qzs/0.jpg" alt="video" width="240" border="10" /></a> |
@@ -164,6 +168,23 @@ line-height: 140%;
 
 <br>
 
+## Separable differential equations
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 7  | [**_Notes on differential equations_**](/assets/pdf/differential_eqns.pdf) |            |
+|----|----------------------|------------|
+|7.1 | Introduction: why we care about integration techniques and an **outline of the solution** process | <a href="https://www.youtube.com/watch?feature=player_embedded&v=E6_hDs04nyo" target="_blank"><img src="https://img.youtube.com/vi/E6_hDs04nyo/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|7.2 | Applying the initial condition to select a specific solution | <a href="https://www.youtube.com/watch?feature=player_embedded&v=smA5pIiRgL0" target="_blank"><img src="https://img.youtube.com/vi/smA5pIiRgL0/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.3 | When solving for \\(y\\) can be tricky |  <a href="https://www.youtube.com/watch?feature=player_embedded&v=M9V-Cij5iyk" target="_blank"><img src="https://img.youtube.com/vi/M9V-Cij5iyk/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.4 | Absorb  \\(\pm\\) into the positive constant, by extending the range of admissible constants <br><br> This is useful when solutions have the form \\(\|y\| = K e^x, \ K >0 \\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=7YmMMWMWl0k" target="_blank"><img src="https://img.youtube.com/vi/7YmMMWMWl0k/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.5 | Modeling a simple electric circuit | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Xru14xVEUb0" target="_blank"><img src="https://img.youtube.com/vi/Xru14xVEUb0/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.6 | Mixing problems <br><br> A common class of problems which involve uniform mixing of a solution. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XrGhpaRUxx0" target="_blank"><img src="https://img.youtube.com/vi/XrGhpaRUxx0/0.jpg" alt="video" width="240" border="10" /></a> |
+|7.7 | Orthogonal trajectories <br><br> These generalize both Cartesian and polar coordinates. Imagine curved coordinate lines! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GjPZC2RiRO4" target="_blank"><img src="https://img.youtube.com/vi/GjPZC2RiRO4/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
+
+<br>
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
