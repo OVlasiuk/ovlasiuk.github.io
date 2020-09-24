@@ -51,6 +51,8 @@ Final study guide:
 <b>Sage examples</b> as a [webpage](/assets/sage_demo.html), and the original Jupyter [notebook](/assets/sage_demo.ipynb).<br>
 
 
+<b>Approximate methods for integration</b> — approximate integration rules and Euler's method. As a [webpage](/assets/approximate_methods.html), and the original Jupyter [notebook](/assets/approximate_methods.ipynb).<br>
+
 <b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage](/assets/taylor.html), and the original Jupyter [notebook](/assets/taylor.ipynb).<br>
 {: style="text-indent: 0;"}
 

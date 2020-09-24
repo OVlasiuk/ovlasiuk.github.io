@@ -195,6 +195,13 @@ line-height: 140%;
 | 8  | [**_Notes on approximate methods_**](/assets/pdf/approx_methods.pdf) |            |
 |----|----------------------|------------|
 |8.1 | Introduction: when it is necessary to solve an integral or a differential equation approximately | <a href="https://www.youtube.com/watch?feature=player_embedded&v=S1rNFpVev6I" target="_blank"><img src="https://img.youtube.com/vi/S1rNFpVev6I/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.2 | Derivation of the **midpoint and trapezoidal** rules <br><br> These rules are obtained by approximating area under the curve with rectangles and trapezoids, respectively. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=xzlHHMEU3ZI" target="_blank"><img src="https://img.youtube.com/vi/xzlHHMEU3ZI/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.3 | Trapezoidal vs midpoint rule: which is better? <br><br> See if you favorite is a more precise rule! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=aFnaH44ZYh0" target="_blank"><img src="https://img.youtube.com/vi/aFnaH44ZYh0/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.4 | Error bounds for \\(T_n\\) and \\(M_n\\)  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=so2jb7IMtqg" target="_blank"><img src="https://img.youtube.com/vi/so2jb7IMtqg/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.5 | **Simpson's rule** and its error bound  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GXA45UasCEw" target="_blank"><img src="https://img.youtube.com/vi/GXA45UasCEw/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.6 | Numerical integration in [SageMath](https://www.sagemath.org/)  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UIkaSGwo2-s" target="_blank"><img src="https://img.youtube.com/vi/UIkaSGwo2-s/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.7 | **Euler's method** <br><br> This video discusses how to view a differential equation as a vector field, by attaching a little vector to every point of the \\(x,y\\) plane, and how to construct approximate solutions by connecting the points obtained from Euler's method.  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=CUKo3X7BTa4" target="_blank"><img src="https://img.youtube.com/vi/CUKo3X7BTa4/0.jpg" alt="video" width="240" border="10" /></a> |
+|8.8 | Euler's method in [SageMath](https://www.sagemath.org/) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=tEK0rxcrK6I" target="_blank"><img src="https://img.youtube.com/vi/tEK0rxcrK6I/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
