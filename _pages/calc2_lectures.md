@@ -55,6 +55,8 @@ line-height: 140%;
 
 [**7** Separable differential equations](#separable-differential-equations)
 
+[**8** Approximate methods for integrals and differential equations](#approximate-methods-for-integrals-and-differential-equations)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -185,6 +187,25 @@ line-height: 140%;
 |----|----------------------+------------|
 
 <br>
+
+## Approximate methods for integrals and differential equations
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 8  | [**_Notes on differential equations_**](/assets/pdf/approx_methods.pdf) |            |
+|----|----------------------|------------|
+|8.1 | Introduction: when it is necessary to solve an integral or a differential equation approximately | <a href="https://www.youtube.com/watch?feature=player_embedded&v=S1rNFpVev6I" target="_blank"><img src="https://img.youtube.com/vi/S1rNFpVev6I/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+<!-- |8.2 | Applying the initial condition to select a specific solution | <a href="https://www.youtube.com/watch?feature=player_embedded&v=smA5pIiRgL0" target="_blank"><img src="https://img.youtube.com/vi/smA5pIiRgL0/0.jpg" alt="video" width="240" border="10" /></a> | -->
+<!-- |8.3 | When solving for \\(y\\) can be tricky |  <a href="https://www.youtube.com/watch?feature=player_embedded&v=M9V-Cij5iyk" target="_blank"><img src="https://img.youtube.com/vi/M9V-Cij5iyk/0.jpg" alt="video" width="240" border="10" /></a> | -->
+<!-- |8.4 | Absorb  \\(\pm\\) into the positive constant, by extending the range of admissible constants <br><br> This is useful when solutions have the form \\(\|y\| = K e^x, \ K >0 \\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=7YmMMWMWl0k" target="_blank"><img src="https://img.youtube.com/vi/7YmMMWMWl0k/0.jpg" alt="video" width="240" border="10" /></a> | -->
+<!-- |8.5 | Modeling a simple electric circuit | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Xru14xVEUb0" target="_blank"><img src="https://img.youtube.com/vi/Xru14xVEUb0/0.jpg" alt="video" width="240" border="10" /></a> | -->
+<!-- |8.6 | Mixing problems <br><br> A common class of problems which involve uniform mixing of a solution. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XrGhpaRUxx0" target="_blank"><img src="https://img.youtube.com/vi/XrGhpaRUxx0/0.jpg" alt="video" width="240" border="10" /></a> | -->
+<!-- |8.7 | Orthogonal trajectories <br><br> These generalize both Cartesian and polar coordinates. Imagine curved coordinate lines! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GjPZC2RiRO4" target="_blank"><img src="https://img.youtube.com/vi/GjPZC2RiRO4/0.jpg" alt="video" width="240" border="10" /></a> | -->
+|----|----------------------+------------|
+
+<br>
+
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
