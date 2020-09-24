@@ -192,7 +192,7 @@ line-height: 140%;
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 8  | [**_Notes on differential equations_**](/assets/pdf/approx_methods.pdf) |            |
+| 8  | [**_Notes on approximate methods_**](/assets/pdf/approx_methods.pdf) |            |
 |----|----------------------|------------|
 |8.1 | Introduction: when it is necessary to solve an integral or a differential equation approximately | <a href="https://www.youtube.com/watch?feature=player_embedded&v=S1rNFpVev6I" target="_blank"><img src="https://img.youtube.com/vi/S1rNFpVev6I/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
