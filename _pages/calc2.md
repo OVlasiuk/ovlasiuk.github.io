@@ -48,12 +48,17 @@ Final study guide:
 <b>Maxima examples</b> as a [webpage](/assets/maxima.html), and the original [wxMaxima](https://wxmaxima-developers.github.io/wxmaxima/) notebook, [wxmx](/assets/notes.wxmx).<br>
 
 
-<b>Sage examples</b> as a [webpage](/assets/sage_demo.html), and the original Jupyter [notebook](/assets/sage_demo.ipynb).<br>
-
-
-<b>Approximate methods for integration</b> — approximate integration rules and Euler's method. As a [webpage](/assets/approximate_methods.html), and the original Jupyter [notebook](/assets/approximate_methods.ipynb).<br>
+<b>Sage demo examples</b> as a [webpage](/assets/sage_demo.html), and the original Jupyter [notebook](/assets/sage_demo.ipynb).<br>
 
 <b>Taylor expansions</b> — shows convergence of the Taylor polynomials for several functions; in Python/Sympy. As a [webpage](/assets/taylor.html), and the original Jupyter [notebook](/assets/taylor.ipynb).<br>
+
+<b>Github repo with all the Sage notebooks, to run interactively from browser</b> 
+<br>
+[[Link]](https://github.com/OVlasiuk/calc2-sage)
+<br>
+Click on the "binder" image to
+load the repo to binder; once it starts, you can explore the file tree by
+clicking the Jupyter logo in the upper left corner.
 {: style="text-indent: 0;"}
 
 

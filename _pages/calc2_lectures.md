@@ -192,7 +192,7 @@ line-height: 140%;
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 8  | [**_Notes on approximate methods_**](/assets/pdf/approx_methods.pdf) |            |
+| 8  | [**_Notes on approximate methods_**](/assets/pdf/approx_methods.pdf) <br><br> To run the examples discussed in SageMath videos interactively from your browser, follow [this link](https://mybinder.org/v2/gh/ovlasiuk/calc2-sage/master?filepath=sage_demo.ipynb) to the binder of all notebooks from the course. Once the binder starts, you can view the file tree by clicking on the Jupyter logo in the upper left corner. |            |
 |----|----------------------|------------|
 |8.1 | Introduction: when it is necessary to solve an integral or a differential equation approximately | <a href="https://www.youtube.com/watch?feature=player_embedded&v=S1rNFpVev6I" target="_blank"><img src="https://img.youtube.com/vi/S1rNFpVev6I/0.jpg" alt="video" width="240" border="10" /></a> |
 |8.2 | Derivation of the **midpoint and trapezoidal** rules <br><br> These rules are obtained by approximating area under the curve with rectangles and trapezoids, respectively. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=xzlHHMEU3ZI" target="_blank"><img src="https://img.youtube.com/vi/xzlHHMEU3ZI/0.jpg" alt="video" width="240" border="10" /></a> |
