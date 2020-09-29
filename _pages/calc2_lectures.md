@@ -57,6 +57,8 @@ line-height: 140%;
 
 [**8** Approximate methods for integrals and differential equations](#approximate-methods-for-integrals-and-differential-equations)
 
+[**9** Arc length and area of surfaces of revolution](#arc-length-and-area-of-surfaces-of-revolution)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -206,6 +208,21 @@ line-height: 140%;
 
 <br>
 
+## Arc length and area of surfaces of revolution
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 9  | [**_Notes on arc length_**](/assets/pdf/arclength.pdf)  |            |
+|----|----------------------|------------|
+|9.1 | Derivation of the **formula** for the arc length of a curve | <a href="https://www.youtube.com/watch?feature=player_embedded&v=1uQgb4K60hY" target="_blank"><img src="https://img.youtube.com/vi/1uQgb4K60hY/0.jpg" alt="video" width="240" border="10" /></a> |
+|9.2 | First example: length of the curve \\(y^2 = x^3\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Yhv0ccT_uhQ" target="_blank"><img src="https://img.youtube.com/vi/Yhv0ccT_uhQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|9.3 | Treating a curve as the graph of \\(x = x(y)\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Ewc4dC48EKg" target="_blank"><img src="https://img.youtube.com/vi/Ewc4dC48EKg/0.jpg" alt="video" width="240" border="10" /></a> |
+|9.4 | The arc length function: definition and use | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UMyjFHAoYzA" target="_blank"><img src="https://img.youtube.com/vi/UMyjFHAoYzA/0.jpg" alt="video" width="240" border="10" /></a> |
+|9.5 | Summary of arc length | <a href="https://www.youtube.com/watch?feature=player_embedded&v=ZtQ9zi_MvKg" target="_blank"><img src="https://img.youtube.com/vi/ZtQ9zi_MvKg/0.jpg" alt="video" width="240" border="10" /></a> |
+|   | [**_Notes on areas of surfaces of revolution_**](/assets/pdf/surfaces_of_revolution.pdf)  |            |
+|----|----------------------|-------------------|
+
+<br>
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
