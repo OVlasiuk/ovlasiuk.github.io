@@ -223,6 +223,7 @@ line-height: 140%;
 |9.6 | Derivation of the **formula** for the area of surface of revolution | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Ljb46wEHY50" target="_blank"><img src="https://img.youtube.com/vi/Ljb46wEHY50/0.jpg" alt="video" width="240" border="10" /></a> |
 |9.7 | Area of a spherical slice and using cylindrical projection in cartography | <a href="https://www.youtube.com/watch?feature=player_embedded&v=QX9i22agpAA" target="_blank"><img src="https://img.youtube.com/vi/QX9i22agpAA/0.jpg" alt="video" width="240" border="10" /></a> |
 |9.8 | Rotation of an arc of \\(y=x^2\\). <br><br> Solved two ways: integrating in \\(x\\) and in \\(y\\). **The variable of integration is independent of the axis.**  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=QaNCW0iiGFw" target="_blank"><img src="https://img.youtube.com/vi/QaNCW0iiGFw/0.jpg" alt="video" width="240" border="10" /></a> |
+|9.9 | Summary: **how to set up the integral for a surface of revolution**  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=JnmYOpPeR9Y" target="_blank"><img src="https://img.youtube.com/vi/JnmYOpPeR9Y/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
