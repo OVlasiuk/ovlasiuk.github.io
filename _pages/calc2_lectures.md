@@ -59,6 +59,8 @@ line-height: 140%;
 
 [**9** Arc length and area of surfaces of revolution](#arc-length-and-area-of-surfaces-of-revolution)
 
+[**10** Applications to physics](#applications-to-physics)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -224,6 +226,18 @@ line-height: 140%;
 |9.7 | Area of a spherical slice and using cylindrical projection in cartography | <a href="https://www.youtube.com/watch?feature=player_embedded&v=QX9i22agpAA" target="_blank"><img src="https://img.youtube.com/vi/QX9i22agpAA/0.jpg" alt="video" width="240" border="10" /></a> |
 |9.8 | Rotation of an arc of \\(y=x^2\\). <br><br> Solved two ways: integrating in \\(x\\) and in \\(y\\). **The variable of integration is independent of the axis.**  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=QaNCW0iiGFw" target="_blank"><img src="https://img.youtube.com/vi/QaNCW0iiGFw/0.jpg" alt="video" width="240" border="10" /></a> |
 |9.9 | Summary: **how to set up the integral for a surface of revolution**  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=JnmYOpPeR9Y" target="_blank"><img src="https://img.youtube.com/vi/JnmYOpPeR9Y/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Applications to physics
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 9  | [**_Notes on applications to physics_**](/assets/pdf/physics_applications.pdf)  |            |
+|----|----------------------|------------|
+|10.1 | Hydrostatic force: derivation and example | <a href="https://www.youtube.com/watch?feature=player_embedded&v=tfFxLj7lCrY" target="_blank"><img src="https://img.youtube.com/vi/tfFxLj7lCrY/0.jpg" alt="video" width="240" border="10" /></a> |
+|10.2 | Center of mass of a region: formula and example | <a href="https://www.youtube.com/watch?feature=player_embedded&v=uj78AWyAFiE" target="_blank"><img src="https://img.youtube.com/vi/uj78AWyAFiE/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
