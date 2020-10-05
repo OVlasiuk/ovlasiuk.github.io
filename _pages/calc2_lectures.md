@@ -234,7 +234,7 @@ line-height: 140%;
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 9  | [**_Notes on applications to physics_**](/assets/pdf/physics_applications.pdf)  |            |
+| 10  | [**_Notes on applications to physics_**](/assets/pdf/physics_applications.pdf)  |            |
 |----|----------------------|------------|
 |10.1 | Hydrostatic force: derivation and example | <a href="https://www.youtube.com/watch?feature=player_embedded&v=tfFxLj7lCrY" target="_blank"><img src="https://img.youtube.com/vi/tfFxLj7lCrY/0.jpg" alt="video" width="240" border="10" /></a> |
 |10.2 | Center of mass of a region: formula and example | <a href="https://www.youtube.com/watch?feature=player_embedded&v=uj78AWyAFiE" target="_blank"><img src="https://img.youtube.com/vi/uj78AWyAFiE/0.jpg" alt="video" width="240" border="10" /></a> |
