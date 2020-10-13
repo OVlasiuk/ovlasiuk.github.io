@@ -60,10 +60,10 @@ line-height: 140%;
 [**9** Arc length and area of surfaces of revolution](#arc-length-and-area-of-surfaces-of-revolution)
 
 [**10** Applications to physics](#applications-to-physics)
+
 ----
 
 [**11** Sequences](#sequences)
-
 
 ----
 
