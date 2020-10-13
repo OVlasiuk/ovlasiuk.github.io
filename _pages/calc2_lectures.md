@@ -60,6 +60,10 @@ line-height: 140%;
 [**9** Arc length and area of surfaces of revolution](#arc-length-and-area-of-surfaces-of-revolution)
 
 [**10** Applications to physics](#applications-to-physics)
+----
+
+[**11** Sequences](#sequences)
+
 
 ----
 
@@ -238,6 +242,22 @@ line-height: 140%;
 |----|----------------------|------------|
 |10.1 | Hydrostatic force: derivation and example | <a href="https://www.youtube.com/watch?feature=player_embedded&v=tfFxLj7lCrY" target="_blank"><img src="https://img.youtube.com/vi/tfFxLj7lCrY/0.jpg" alt="video" width="240" border="10" /></a> |
 |10.2 | Center of mass of a region: formula and example | <a href="https://www.youtube.com/watch?feature=player_embedded&v=uj78AWyAFiE" target="_blank"><img src="https://img.youtube.com/vi/uj78AWyAFiE/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Sequences
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 11  | [**_Notes on sequences_**](/assets/pdf/sequences.pdf)  |            |
+|----|----------------------|------------|
+|11.1 | Definition of a sequence and some generic examples: populations, digits of \\(e\\), etc. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=k55GiLVPOaY " target="_blank"><img src="https://img.youtube.com/vi/k55GiLVPOaY/0.jpg" alt="video" width="240" border="10" /></a> |
+|11.2 | Limits of sequences and limit laws | <a href="https://www.youtube.com/watch?feature=player_embedded&v=YcwkVRX9YNw" target="_blank"><img src="https://img.youtube.com/vi/YcwkVRX9YNw/0.jpg" alt="video" width="240" border="10" /></a> |
+|11.3 | Lifting to functions: to apply l'Hôpital's rule, pass to the function first!  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=dheQ0V6l5rY" target="_blank"><img src="https://img.youtube.com/vi/dheQ0V6l5rY/0.jpg" alt="video" width="240" border="10" /></a> |
+|11.4 | Interchanging limits with continuous functions | <a href="https://www.youtube.com/watch?feature=player_embedded&v=fsrXqYiVv8k" target="_blank"><img src="https://img.youtube.com/vi/fsrXqYiVv8k/0.jpg" alt="video" width="240" border="10" /></a> |
+|11.5 | When is the sequence \\(r^n\\) convergent? <br><br> This will be useful later, when we discuss the geometric series. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=zu3mFbJEFPQ" target="_blank"><img src="https://img.youtube.com/vi/zu3mFbJEFPQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|11.6 | Monotonic sequences <br><br> We discuss increasing and decreasing sequences, and a theorem about them. This theorem will be used for establishing convergence of series with nonnegative terms. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=MZV9MHeKeMQ" target="_blank"><img src="https://img.youtube.com/vi/MZV9MHeKeMQ/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
