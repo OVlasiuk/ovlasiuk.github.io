@@ -65,6 +65,8 @@ line-height: 140%;
 
 [**11** Sequences](#sequences)
 
+[**12** Series](#series)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -258,6 +260,20 @@ line-height: 140%;
 |11.4 | Interchanging limits with continuous functions | <a href="https://www.youtube.com/watch?feature=player_embedded&v=fsrXqYiVv8k" target="_blank"><img src="https://img.youtube.com/vi/fsrXqYiVv8k/0.jpg" alt="video" width="240" border="10" /></a> |
 |11.5 | When is the sequence \\(r^n\\) convergent? <br><br> This will be useful later, when we discuss the geometric series. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=zu3mFbJEFPQ" target="_blank"><img src="https://img.youtube.com/vi/zu3mFbJEFPQ/0.jpg" alt="video" width="240" border="10" /></a> |
 |11.6 | Monotonic sequences <br><br> We discuss increasing and decreasing sequences, and a theorem about them. This theorem will be used for establishing convergence of series with nonnegative terms. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=MZV9MHeKeMQ" target="_blank"><img src="https://img.youtube.com/vi/MZV9MHeKeMQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Series
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 12  | [**_Notes on series**](/assets/pdf/series.pdf)  |            |
+|----|----------------------|------------|
+|12.1 | Definition of a series and its sum <br><br> Any decimal expansion is an example of number series! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=d1LVnaO98s8" target="_blank"><img src="https://img.youtube.com/vi/d1LVnaO98s8/0.jpg" alt="video" width="240" border="10" /></a> |
+|12.2 | The first example; finding \\(a_k\\) through \\(s_n\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=DhSGFdvJgAw" target="_blank"><img src="https://img.youtube.com/vi/DhSGFdvJgAw/0.jpg" alt="video" width="240" border="10" /></a> |
+|12.3 | Telescoping series | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XhICg-WXeAA" target="_blank"><img src="https://img.youtube.com/vi/XhICg-WXeAA/0.jpg" alt="video" width="240" border="10" /></a> |
+|12.4 | **Geometric series**: condition of convergence and sum formula | <a href="https://www.youtube.com/watch?feature=player_embedded&v=3nCpvGo63Jo" target="_blank"><img src="https://img.youtube.com/vi/3nCpvGo63Jo/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
