@@ -13,8 +13,17 @@ p{
 }
 </style>
 
-# MAA5616
-<hr>
+MAA5616
+----
 
-Nothing here yet. Check back soon.
+The main text is Folland, *Real Analysis*. For useful examples, see Gelbaum and Olmsted, *Counterexamples in Analysis*. For the connections with category theory, consult Oxtoby, *Measure and Category*.
 
+<b>Homeworks</b><br>
+<br>
+[[1]]({{"/assets/pdf/hw1.pdf"}})&emsp;
+[[2]]({{"/assets/pdf/hw2.pdf"}})&emsp;
+[[3]]({{"/assets/pdf/hw3.pdf"}})&emsp;
+[[4]]({{"/assets/pdf/hw4.pdf"}})&emsp;
+[[5]]({{"/assets/pdf/hw5.pdf"}})<br>
+<br>
+[[6]]({{"/assets/pdf/hw6.pdf"}})&emsp;
