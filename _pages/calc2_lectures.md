@@ -268,7 +268,7 @@ line-height: 140%;
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
-| 12  | [**_Notes on series**](/assets/pdf/series.pdf)  |            |
+| 12  | [**_Notes on series_**](/assets/pdf/series.pdf)  |            |
 |----|----------------------|------------|
 |12.1 | Definition of a series and its sum <br><br> Any decimal expansion is an example of number series! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=d1LVnaO98s8" target="_blank"><img src="https://img.youtube.com/vi/d1LVnaO98s8/0.jpg" alt="video" width="240" border="10" /></a> |
 |12.2 | The first example; finding \\(a_k\\) through \\(s_n\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=DhSGFdvJgAw" target="_blank"><img src="https://img.youtube.com/vi/DhSGFdvJgAw/0.jpg" alt="video" width="240" border="10" /></a> |
