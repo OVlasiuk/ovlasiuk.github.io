@@ -273,7 +273,7 @@ line-height: 140%;
 |12.1 | Definition of a series and its sum <br><br> Any decimal expansion is an example of number series! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=d1LVnaO98s8" target="_blank"><img src="https://img.youtube.com/vi/d1LVnaO98s8/0.jpg" alt="video" width="240" border="10" /></a> |
 |12.2 | The first example; finding \\(a_k\\) through \\(s_n\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=DhSGFdvJgAw" target="_blank"><img src="https://img.youtube.com/vi/DhSGFdvJgAw/0.jpg" alt="video" width="240" border="10" /></a> |
 |12.3 | Telescoping series | <a href="https://www.youtube.com/watch?feature=player_embedded&v=XhICg-WXeAA" target="_blank"><img src="https://img.youtube.com/vi/XhICg-WXeAA/0.jpg" alt="video" width="240" border="10" /></a> |
-|12.4 | **Geometric series**: condition of convergence and sum formula | <a href="https://www.youtube.com/watch?feature=player_embedded&v=3nCpvGo63Jo" target="_blank"><img src="https://img.youtube.com/vi/3nCpvGo63Jo/0.jpg" alt="video" width="240" border="10" /></a> |
+|12.4 | **Geometric series**: condition of convergence and sum formula | <a href="https://www.youtube.com/watch?feature=player_embedded&v=wfMVFyeigY0" target="_blank"><img src="https://img.youtube.com/vi/wfMVFyeigY0/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
