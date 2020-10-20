@@ -292,10 +292,11 @@ line-height: 140%;
 |----|----------------------|------------|
 | 13  | [**_Notes on the integral test_**](/assets/pdf/integral_test.pdf)  |            |
 |----|----------------------|------------|
-|13.1 | Showing that \\(\sum_{k=1}^\infty  \frac1{k^2} \\) is convergent, using integrals | <a href="https://www.youtube.com/watch?feature=player_embedded&v=3t6c3FatbC4" target="_blank"><img src="https://img.youtube.com/vi/3t6c3FatbC4/0.jpg" alt="video" width="240" border="10" /></a> |
+|13.1 | Showing that \\(\sum_{k}  \frac1{k^2} \\) is convergent, using integrals | <a href="https://www.youtube.com/watch?feature=player_embedded&v=3t6c3FatbC4" target="_blank"><img src="https://img.youtube.com/vi/3t6c3FatbC4/0.jpg" alt="video" width="240" border="10" /></a> |
 |13.2 | Showing that \\(\sum_k  \frac1{k^{1/2}} \\) is divergent and the statement of the **integral test** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=aD3Rc-kKy3k" target="_blank"><img src="https://img.youtube.com/vi/aD3Rc-kKy3k/0.jpg" alt="video" width="240" border="10" /></a> |
 |13.3 | Convergence of \\(\sum_k  \frac1{k^{2}+1} \\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=YI0d-UJyvz4" target="_blank"><img src="https://img.youtube.com/vi/YI0d-UJyvz4/0.jpg" alt="video" width="240" border="10" /></a> |
 |13.4 | For which \\(p\\) is \\(\sum_k  \frac1{k^{p}} \\) convergent? (For \\(p>1\\), just as improper integrals.) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=MZk_oqZXFPM" target="_blank"><img src="https://img.youtube.com/vi/MZk_oqZXFPM/0.jpg" alt="video" width="240" border="10" /></a> |
+|13.5 | Convergence of \\(\sum_k  \frac{\ln k}{k} \\) <br><br> In order to show that \\(f(x) = \ln(x)/x\\) is decreasing, we have to compute its derivative. It turns out, the function is decreasing only for \\(x>e\\), but we can still apply the integral test. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=y4oyUE9xihU" target="_blank"><img src="https://img.youtube.com/vi/y4oyUE9xihU/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
