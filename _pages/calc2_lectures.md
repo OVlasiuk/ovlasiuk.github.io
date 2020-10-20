@@ -67,6 +67,8 @@ line-height: 140%;
 
 [**12** Series](#series)
 
+[**13** The integral convergence test](#integral-test)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -283,6 +285,18 @@ line-height: 140%;
 |----|----------------------|-------------------|
 
 <br>
+
+## Integral test
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 12  | [**_Notes on the integral test_**](/assets/pdf/integral_test.pdf)  |            |
+|----|----------------------|------------|
+|12.1 | Showing that \\(\sum_{k=1}^\infty  \frac1{k^2} \\) is convergent, using integrals | <a href="https://www.youtube.com/watch?feature=player_embedded&v=3t6c3FatbC4" target="_blank"><img src="https://img.youtube.com/vi/3t6c3FatbC4/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
