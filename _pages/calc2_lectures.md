@@ -293,6 +293,7 @@ line-height: 140%;
 | 13  | [**_Notes on the integral test_**](/assets/pdf/integral_test.pdf)  |            |
 |----|----------------------|------------|
 |13.1 | Showing that \\(\sum_{k=1}^\infty  \frac1{k^2} \\) is convergent, using integrals | <a href="https://www.youtube.com/watch?feature=player_embedded&v=3t6c3FatbC4" target="_blank"><img src="https://img.youtube.com/vi/3t6c3FatbC4/0.jpg" alt="video" width="240" border="10" /></a> |
+|13.2 | Showing that \\(\sum_{k=1}^\infty  \frac1{k^{1/2}} \\) is divergent and the statement of the **integral test** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=aD3Rc-kKy3k" target="_blank"><img src="https://img.youtube.com/vi/aD3Rc-kKy3k/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
