@@ -313,7 +313,8 @@ line-height: 140%;
 | 14  | [**_Notes on the comparison tests_**](/assets/pdf/comparison_tests.pdf)  |            |
 |----|----------------------|------------|
 |14.1 | The statement of the **comparison test** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=2gSU-SXP1n4" target="_blank"><img src="https://img.youtube.com/vi/2gSU-SXP1n4/0.jpg" alt="video" width="240" border="10" /></a> |
-|14.2 | Applying the comparison test: compare the given series to geometric and p-series | <a href="https://www.youtube.com/watch?feature=player_embedded&v=H7YPPS5vk64" target="_blank"><img src="https://img.youtube.com/vi/H7YPPS5vk64/0.jpg" alt="video" width="240" border="10" /></a> |
+|14.2 | Applying the comparison test: compare a given series to geometric and p-series | <a href="https://www.youtube.com/watch?feature=player_embedded&v=H7YPPS5vk64" target="_blank"><img src="https://img.youtube.com/vi/H7YPPS5vk64/0.jpg" alt="video" width="240" border="10" /></a> |
+|14.3 | Limit comparison test <br><br> If it is difficult to obtain an inequality comparing \\(a_k\\) and \\(b_k\\), it is useful to consider the limit of their ratio: \\(\lim_{k\to\infty} \frac{a_k}{b_k} \\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=elAdcfHSZXw" target="_blank"><img src="https://img.youtube.com/vi/elAdcfHSZXw/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
