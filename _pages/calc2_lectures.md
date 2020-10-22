@@ -69,6 +69,8 @@ line-height: 140%;
 
 [**13** The integral convergence test](#integral-test)
 
+[**14** Comparison tests](#comparison-tests)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -299,6 +301,19 @@ line-height: 140%;
 |13.5 | Convergence of \\(\sum_k  \frac{\ln k}{k} \\) <br><br> In order to show that \\(f(x) = \ln(x)/x\\) is decreasing, we have to compute its derivative. It turns out, the function is decreasing only for \\(x>e\\), but we can still apply the integral test. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=y4oyUE9xihU" target="_blank"><img src="https://img.youtube.com/vi/y4oyUE9xihU/0.jpg" alt="video" width="240" border="10" /></a> |
 |13.6 | Formulation of the **remainder estimate** <br><br> Using the ideas from integral test, we estimate the n-th remainder, \\(R_n = s - s_n\\) for a series \\(\sum_k  a_k \\), converging to the finite value \\(s\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=iicYv29vkIk" target="_blank"><img src="https://img.youtube.com/vi/iicYv29vkIk/0.jpg" alt="video" width="240" border="10" /></a> |
 |13.7 | Applying the remainder estimate to the series \\(\sum_k \frac1{k^3}\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=VXL0LFp7YfI" target="_blank"><img src="https://img.youtube.com/vi/VXL0LFp7YfI/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+
+## Comparison tests
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 14  | [**_Notes on the comparison tests_**](/assets/pdf/comparison_tests.pdf)  |            |
+|----|----------------------|------------|
+|14.1 | The statement of the **comparison test** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=2gSU-SXP1n4" target="_blank"><img src="https://img.youtube.com/vi/2gSU-SXP1n4/0.jpg" alt="video" width="240" border="10" /></a> |
+|14.2 | Applying the comparison test: compare the given series to geometric and p-series | <a href="https://www.youtube.com/watch?feature=player_embedded&v=H7YPPS5vk64" target="_blank"><img src="https://img.youtube.com/vi/H7YPPS5vk64/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
