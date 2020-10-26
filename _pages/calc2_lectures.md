@@ -71,6 +71,10 @@ line-height: 140%;
 
 [**14** Comparison tests](#comparison-tests)
 
+[**15** Alternating series](#alternating-series)
+
+[**16** Absolute convergence, root and ratio tests](#absolute-convergence-root-and-ratio-tests)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -319,6 +323,32 @@ line-height: 140%;
 
 <br>
 
+## Alternating series
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 15  | [**_Notes on alternating series_**](/assets/pdf/alternating_series.pdf)  |            |
+|----|----------------------|------------|
+|15.1 | Definition of alternating series and statement of the **alternating series test** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=39745YnxOD8" target="_blank"><img src="https://img.youtube.com/vi/39745YnxOD8/0.jpg" alt="video" width="240" border="10" /></a> |
+|15.2 | Applying the alternating series test | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Bl6LUap9ycI" target="_blank"><img src="https://img.youtube.com/vi/Bl6LUap9ycI/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Absolute convergence, root and ratio tests
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 16  | [**_Notes on absolute convergence, root and ratio tests_**](/assets/pdf/abs_conv_ratio_tests.pdf)  |            |
+|----|----------------------|------------|
+|16.1 | The notion of **absolute convergence** <br><br> Absolute convergence allows to bypass the specifics of signs of \\(a_k\\) in a series \\(\sum_k a_k\\), and only look at the series of absolute values \\(\sum_k |a_k| \\). Then convergence of this series of absolute values implies usual convergence.  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=x6XMvXV2eZQ" target="_blank"><img src="https://img.youtube.com/vi/x6XMvXV2eZQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|16.2 | Application of absolute convergence to the series \\(\sum_k \frac{\cos k}{k^2} \\)| <a href="https://www.youtube.com/watch?feature=player_embedded&v=KpKpNDBkErw" target="_blank"><img src="https://img.youtube.com/vi/KpKpNDBkErw/0.jpg" alt="video" width="240" border="10" /></a> |
+|16.3 | The ratio test: statement <br><br> Especially suitable for expressions containing e.g. \\(a^k\\) and \\(k!\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=jPIDmtZKofA" target="_blank"><img src="https://img.youtube.com/vi/jPIDmtZKofA/0.jpg" alt="video" width="240" border="10" /></a> |
+|16.4 | Ratio test applied | <a href="https://www.youtube.com/watch?feature=player_embedded&v=2EZy-390mTM" target="_blank"><img src="https://img.youtube.com/vi/2EZy-390mTM/0.jpg" alt="video" width="240" border="10" /></a> |
+|16.5 | The root test: statement and an example <br><br> Especially suitable for \\(a_k = (some\ expression)^k\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=6rQ6pRySKhk" target="_blank"><img src="https://img.youtube.com/vi/6rQ6pRySKhk/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
