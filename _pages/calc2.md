@@ -59,7 +59,4 @@ Final study guide:
 Click on the "binder" image to
 load the repo to binder; once it starts, you can explore the file tree by
 clicking the Jupyter logo in the upper left corner.
-{: style="text-indent: 0;"}
-
-
-[<b>Video archive Spring 2020</b>](/_pages/vid_archive) — recordings of lectures that cover power series and parametric curves.<br>
+{: style="text-indent: 0;"} 

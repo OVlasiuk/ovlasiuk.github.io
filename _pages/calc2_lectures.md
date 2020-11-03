@@ -77,6 +77,10 @@ line-height: 140%;
 
 ----
 
+[**17** Definition and basic properties of power series](#power-series)
+
+----
+
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
 |0.0 | Welcome video | <a href="https://youtu.be/UyvHG9H3Qzs" target="_blank"><img src="https://img.youtube.com/vi/UyvHG9H3Qzs/0.jpg" alt="video" width="240" border="10" /></a> |
@@ -347,6 +351,22 @@ line-height: 140%;
 |16.4 | Ratio test applied | <a href="https://www.youtube.com/watch?feature=player_embedded&v=2EZy-390mTM" target="_blank"><img src="https://img.youtube.com/vi/2EZy-390mTM/0.jpg" alt="video" width="240" border="10" /></a> |
 |16.5 | The root test: statement and an example <br><br> Especially suitable for \\(a_k = (some\ expression)^k\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=6rQ6pRySKhk" target="_blank"><img src="https://img.youtube.com/vi/6rQ6pRySKhk/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
+
+<br>
+
+## Power series
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 17  | [**_Notes on power series_**](/assets/pdf/power_series.pdf) |            |
+|----|----------------------|------------|
+|17.1 | Definition of power series<br><br> The image quality is not great, and the colors are inverted. This has been corrected in subsequent videos      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=lIub_kTxl60 " target="_blank"><img src="https://img.youtube.com/vi/lIub_kTxl60/0.jpg" alt="video" width="240" border="10" /></a> |
+|17.2 | Find the values of \\(x\\) that make the power series \\(\sum_k \frac{(x-3)^k}k\\) converge   | <a href="https://www.youtube.com/watch?feature=player_embedded&v=1XBUrFjWTAw " target="_blank"><img src="https://img.youtube.com/vi/1XBUrFjWTAw/0.jpg" alt="video" width="240" border="10" /></a> |
+|17.3 | Finding the regions of convergence for \\(\sum_k k!x^k \\) and the Bessel function \\( J_0 \\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=m-UFLF1WPn8 " target="_blank"><img src="https://img.youtube.com/vi/m-UFLF1WPn8/0.jpg" alt="video" width="240" border="10" /></a> |
+|17.4 | We explore the graph of the Bessel function \\( J_0 \\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=0GNxoJEIKEU  " target="_blank"><img src="https://img.youtube.com/vi/0GNxoJEIKEU/0.jpg" alt="video" width="240" border="10" /></a> |
+|17.5 | <b>Summary</b> of different convergence modes for power series. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=A8RTlV7ehLw   " target="_blank"><img src="https://img.youtube.com/vi/A8RTlV7ehLw/0.jpg" alt="video" width="240" border="10" /></a> |
+|17.6 | Using the theorem from 1.5, we determine the interval of convergence (= all the values of \\(x\\) for which it converges) for the series \\( \sum_k \frac{(-3)^k x^k}{\sqrt{k+1}} \\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=_oEdGSJ7img " target="_blank"><img src="https://img.youtube.com/vi/_oEdGSJ7img/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------|
 
 <br>
 
