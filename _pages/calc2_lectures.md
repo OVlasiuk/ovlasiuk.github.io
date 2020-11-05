@@ -79,6 +79,10 @@ line-height: 140%;
 
 [**17** Definition and basic properties of power series](#power-series)
 
+[**18** Representing functions by power series](#representing-functions-by-power-series)
+
+[**Bonus**: A relation between power series and differential equations](#bonus-a-relation-between-power-series-and-differential-equations)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -367,6 +371,34 @@ line-height: 140%;
 |17.5 | <b>Summary</b> of different convergence modes for power series. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=A8RTlV7ehLw   " target="_blank"><img src="https://img.youtube.com/vi/A8RTlV7ehLw/0.jpg" alt="video" width="240" border="10" /></a> |
 |17.6 | Using the theorem from 1.5, we determine the interval of convergence (= all the values of \\(x\\) for which it converges) for the series \\( \sum_k \frac{(-3)^k x^k}{\sqrt{k+1}} \\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=_oEdGSJ7img " target="_blank"><img src="https://img.youtube.com/vi/_oEdGSJ7img/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------+------------|
+
+<br>
+
+## Representing functions by power series
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 18  | [**_Notes on representing functions by power series_**](/assets/pdf/representing_functions_power_series.pdf) |            |
+|----|----------------------|------------|
+|18.1 | Representing functions with power series using algebraic manipulations      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=SGp4IGkHHMA " target="_blank"><img src="https://img.youtube.com/vi/SGp4IGkHHMA/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|18.2 | **The main theorem** concerning differentiation and integration of power series, and an example that involves differentiating a series  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=4SQ3ipZ8HVI" target="_blank"><img src="https://img.youtube.com/vi/4SQ3ipZ8HVI/0.jpg" alt="video" width="240" border="10" /></a> |
+|18.3 | A comment on changing indexing in a series | <a href="https://www.youtube.com/watch?feature=player_embedded&v=nS0_HH6lBo8  " target="_blank"><img src="https://img.youtube.com/vi/nS0_HH6lBo8/0.jpg" alt="video" width="240" border="10" /></a> |
+|18.4 | Two important examples: power series for  \\(\ln(1+x)\\) and \\(\arctan x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=UndGUuE2ZB0" target="_blank"><img src="https://img.youtube.com/vi/UndGUuE2ZB0/0.jpg" alt="video" width="240" border="10" /></a> |
+|18.5 | Discussion of the series for \\(\ln(1+x)\\) and \\(\arctan x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=fNRdg9Wx_II" target="_blank"><img src="https://img.youtube.com/vi/fNRdg9Wx_II/0.jpg" alt="video" width="240" border="10" /></a> |
+|18.6 | Representing an antiderivative of a function by the power series, and why it is useful | <a href="https://www.youtube.com/watch?feature=player_embedded&v=NtXEvzb5lBw    " target="_blank"><img src="https://img.youtube.com/vi/NtXEvzb5lBw/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------| 
+
+<br>
+
+## Bonus: A relation between power series and differential equations
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+|    | [**_A relation between power series and differential equations._**](/assets/pdf/series_diff_eqns.pdf) |            |
+|----|----------------------|------------|
+| | Connecting two major topics of this course, we solve the homework question #8 from section 11.9. First, we show that the power series \\(f(x) = \sum_{n=0}^\infty \frac{x^n}{n!} \\) satisfies the differential equation \\(f'(x)=f(x)\\). Then, we solve this differential equation and verify that its unique solution with the initial condition \\(f(0)=1\\) is \\(e^x\\). This gives an alternative way to compute the power series representation for \\(e^x\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=mQc5It2qhUk" target="_blank"><img src="https://img.youtube.com/vi/mQc5It2qhUk/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|------------|
 
 <br>
 
