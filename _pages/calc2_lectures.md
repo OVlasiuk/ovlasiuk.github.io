@@ -83,6 +83,8 @@ line-height: 140%;
 
 [**Bonus**: A relation between power series and differential equations](#bonus-a-relation-between-power-series-and-differential-equations)
 
+[**19** Taylor and Maclaurin series](#taylor-and-maclaurin-series) 
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -349,7 +351,7 @@ line-height: 140%;
 |----|----------------------|------------|
 | 16  | [**_Notes on absolute convergence, root and ratio tests_**](/assets/pdf/abs_conv_ratio_tests.pdf)  |            |
 |----|----------------------|------------|
-|16.1 | The notion of **absolute convergence** <br><br> Absolute convergence allows to bypass the specifics of signs of \\(a_k\\) in a series \\(\sum_k a_k\\), and only look at the series of absolute values \\(\sum_k \|a_k\| \\). Then convergence of this series of absolute values implies usual convergence.  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=x6XMvXV2eZQ" target="_blank"><img src="https://img.youtube.com/vi/x6XMvXV2eZQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|16.1 | The notion of **absolute convergence** <br><br> Absolute convergence allows to bypass the specifics of signs of \\(a_k\\) in a series \\(\sum_k a_k\\), and only look at the series of absolute values \\(\sum_k \|a_k\| \\). Then convergence of this series of absolute values implies usual convergence of the original series \\(\sum_k a_k\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=x6XMvXV2eZQ" target="_blank"><img src="https://img.youtube.com/vi/x6XMvXV2eZQ/0.jpg" alt="video" width="240" border="10" /></a> |
 |16.2 | Application of absolute convergence to the series \\(\sum_k \frac{\cos k}{k^2} \\)| <a href="https://www.youtube.com/watch?feature=player_embedded&v=KpKpNDBkErw" target="_blank"><img src="https://img.youtube.com/vi/KpKpNDBkErw/0.jpg" alt="video" width="240" border="10" /></a> |
 |16.3 | The ratio test: statement <br><br> Especially suitable for expressions containing e.g. \\(a^k\\) and \\(k!\\). | <a href="https://www.youtube.com/watch?feature=player_embedded&v=jPIDmtZKofA" target="_blank"><img src="https://img.youtube.com/vi/jPIDmtZKofA/0.jpg" alt="video" width="240" border="10" /></a> |
 |16.4 | Ratio test applied | <a href="https://www.youtube.com/watch?feature=player_embedded&v=2EZy-390mTM" target="_blank"><img src="https://img.youtube.com/vi/2EZy-390mTM/0.jpg" alt="video" width="240" border="10" /></a> |
@@ -401,6 +403,36 @@ line-height: 140%;
 |----|----------------------|------------|
 
 <br>
+
+## Taylor and Maclaurin series
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 19  | [**_Notes on Taylor and Maclaurin series_**](/assets/pdf/taylor_maclaurin_series.pdf) |            |
+|----|----------------------|------------|
+|19.1 | **The main theorem about Taylor series** is discussed, which gives the expressions for the coefficients in the Taylor series of a function through its derivatives      | <a href="https://www.youtube.com/watch?feature=player_embedded&v=zMV0Qk2KjR0 " target="_blank"><img src="https://img.youtube.com/vi/zMV0Qk2KjR0/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+|19.2 | Computing the Maclaurin series for \\(e^x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=iuLlb_539v4" target="_blank"><img src="https://img.youtube.com/vi/iuLlb_539v4/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.3 | How to prove that Taylor series of a function converges to it? We discuss the **remainder estimate**| <a href="https://www.youtube.com/watch?feature=player_embedded&v=awSGyUrddRU" target="_blank"><img src="https://img.youtube.com/vi/awSGyUrddRU/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.4 | Using the remainder estimate, we show that the Maclaurin series for \\(e^x\\) converges to it | <a href="https://www.youtube.com/watch?feature=player_embedded&v=Jjh9GiqH4uA" target="_blank"><img src="https://img.youtube.com/vi/Jjh9GiqH4uA/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.5 | Maclaurin series for \\(\sin x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=fcxFEX5pRZE" target="_blank"><img src="https://img.youtube.com/vi/fcxFEX5pRZE/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.6 | Using the previous example, we calculate the Maclaurin expansion for \\(\cos x\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=830H0wkO-zg" target="_blank"><img src="https://img.youtube.com/vi/830H0wkO-zg/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.7 | We apply algebraic manipulations to the series for \\(\cos x\\) in order to compute the Maclaurin series of \\(x \cos(x^3)\\) and its radius of convergence | <a href="https://www.youtube.com/watch?feature=player_embedded&v=7rqNoGXs1_w" target="_blank"><img src="https://img.youtube.com/vi/7rqNoGXs1_w/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.8 | The binomial series: expansion of \\((1+x)^p\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=GqG51raE534" target="_blank"><img src="https://img.youtube.com/vi/GqG51raE534/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.9 | Proof of the main theorem about Taylor series from 3.1 | <a href="https://www.youtube.com/watch?feature=player_embedded&v=gJbV1Ie3qJc" target="_blank"><img src="https://img.youtube.com/vi/gJbV1Ie3qJc/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------+------------| 
+
+|   | [**_Notes on examples and applications of Taylor and Maclaurin series_**](/assets/pdf/limits_mult_div_for_series.pdf) |            |
+|----|----------------------|------------|
+|19.10 | We consider an application of the binomial series formula, obtaining the Maclaurin expansion for \\(\frac1{\sqrt{4-x}}\\)   | <a href="https://www.youtube.com/watch?feature=player_embedded&v=pcjgJblGUMQ " target="_blank"><img src="https://img.youtube.com/vi/pcjgJblGUMQ/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.11 | An example of computing a Taylor series — the expansion of \\(\sin x\\) around the center \\(a = \frac{\pi}{3}\\)  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=quFRTPB_vuA" target="_blank"><img src="https://img.youtube.com/vi/quFRTPB_vuA/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.12 | Using power series to compute limits <br><br> Turns out, not only power series can be used to approximate functions and compute antiderivatives, you can also use them instead of l'Hôpital's rule to evaluate limits! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=cjruHn_7iQE " target="_blank"><img src="https://img.youtube.com/vi/cjruHn_7iQE/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.13 | Example of multiplying two power series <br><br> We mentioned earlier that power series were the closest thing to infinite polynomials. In this video we show they are in fact so close to polynomials, one can multiply two power series together! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=5ldpkUo5zfg" target="_blank"><img src="https://img.youtube.com/vi/5ldpkUo5zfg/0.jpg" alt="video" width="240" border="10" /></a> |
+|19.14 | Division of power series <br><br> If the previous video was somewhat surprising, this one is nothing short of astounding. We will perform *long division* on infinite series, just like as if they were polynomials <span class="emoji"> 😮 </span>| <a href="https://www.youtube.com/watch?feature=player_embedded&v=G_-LbEXCznA" target="_blank"><img src="https://img.youtube.com/vi/G_-LbEXCznA/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
 
 <!-- <script src="../assets/js/vanilla-back-to-top.min.js"></script> -->
 <script>
