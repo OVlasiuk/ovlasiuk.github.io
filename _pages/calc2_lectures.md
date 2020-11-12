@@ -85,6 +85,8 @@ line-height: 140%;
 
 [**19** Taylor and Maclaurin series](#taylor-and-maclaurin-series) 
 
+[**20** Approximating functions with Taylor polynomials](#approximating-functions-with-taylor-polynomials)
+
 ----
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
@@ -429,6 +431,19 @@ line-height: 140%;
 |19.12 | Using power series to compute limits <br><br> Turns out, not only power series can be used to approximate functions and compute antiderivatives, you can also use them instead of l'Hôpital's rule to evaluate limits! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=cjruHn_7iQE " target="_blank"><img src="https://img.youtube.com/vi/cjruHn_7iQE/0.jpg" alt="video" width="240" border="10" /></a> |
 |19.13 | Example of multiplying two power series <br><br> We mentioned earlier that power series were the closest thing to infinite polynomials. In this video we show they are in fact so close to polynomials, one can multiply two power series together! | <a href="https://www.youtube.com/watch?feature=player_embedded&v=5ldpkUo5zfg" target="_blank"><img src="https://img.youtube.com/vi/5ldpkUo5zfg/0.jpg" alt="video" width="240" border="10" /></a> |
 |19.14 | Division of power series <br><br> If the previous video was somewhat surprising, this one is nothing short of astounding. We will perform *long division* on infinite series, just like as if they were polynomials <span class="emoji"> 😮 </span>| <a href="https://www.youtube.com/watch?feature=player_embedded&v=G_-LbEXCznA" target="_blank"><img src="https://img.youtube.com/vi/G_-LbEXCznA/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Approximating functions with Taylor polynomials
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 20  | [**_Notes on approximation with Taylor polynomials_**](/assets/pdf/approximating_with_taylor_polys.pdf) |            |
+|----|----------------------|------------|
+|20.1 | Approximating \\( \sqrt[3]x\\) close to the point \\(a = 8\\) with \\(T_2(x)\\), and estimating the resulting error <br><br> We discuss a typical application of Taylor series — approximation of a function close to a point where its value is known. This is how Taylor series usually show up in computational applications. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=L8yVOpmaVWk  " target="_blank"><img src="https://img.youtube.com/vi/L8yVOpmaVWk/0.jpg" alt="video" width="240" border="10" /></a> |
+|20.2 | Antiderivative of \\( e^{-x^2} \\) <br><br> The antiderivative of \\( e^{-x^2} \\) cannot expressed in terms of elementary functions. It **can**, however, be represented by a (Maclaurin) power series converging everywhere. We obtain such representation, demonstrating the expressiveness of power series. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=8Vew0IRdHiY" target="_blank"><img src="https://img.youtube.com/vi/8Vew0IRdHiY/0.jpg" alt="video" width="240" border="10" /></a> |
+|20.3 | Comparison of the initial Taylor polynomials <br><br> We plot the function from episode 4.2 alongside several of its Taylor polynomials and discuss the [code of the Python routine](https://vlasiuk.com/assets/taylor.html) used to produce these graphs. | <a href="https://www.youtube.com/watch?feature=player_embedded&v=TFVnS-2JVvA" target="_blank"><img src="https://img.youtube.com/vi/TFVnS-2JVvA/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
