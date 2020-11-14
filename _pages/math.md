@@ -5,8 +5,8 @@ date: 2018-12-02
 ---
 
 ## Preprints
-* **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, 
-[arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
+* with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**,  [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
+* **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, 
 [arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, 
