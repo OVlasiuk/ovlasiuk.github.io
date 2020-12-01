@@ -15,5 +15,5 @@ My research is in convex and [computational](/_pages/code) geometry, geometric m
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
 <br>
 
-Email me at alex[at]vlasiuk[dot]com.
+I am co-organizing the [Point Distributions Webinar](https://www.math.fsu.edu/~vlasiuk/point_seminar.html); feel free to contact us if you would like to give a talk!
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
