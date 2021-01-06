@@ -7,10 +7,8 @@ date: 2018-12-02
 ## Preprints
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**,  [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
-* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, 
-[arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
-* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, 
-  [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)<br>
+* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, [arXiv:1908.10354](https://arxiv.org/abs/1908.10354), accepted to J. Funct. Anal.<br>
+* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)<br>
 {: style="text-align: left"}
 ## Publications
 * with A. Reznikov, **Riesz energy on self-similar sets**, Proc.  Am.  Math.  Soc., accepted. 
