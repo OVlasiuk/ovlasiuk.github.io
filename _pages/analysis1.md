@@ -13,7 +13,7 @@ p{
 }
 </style>
 
-MAA5616
+Measure and Integration I (MAA5616)
 ----
 
 The main text is Folland, *Real analysis*. For useful examples, see Gelbaum and Olmsted, *Counterexamples in analysis*. For the connections with category theory, consult Oxtoby, *Measure and category*.

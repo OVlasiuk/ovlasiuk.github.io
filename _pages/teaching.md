@@ -21,4 +21,6 @@ p{
 
 [Course page](/_pages/analysis1) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/145720)
 
+## MAA5617 Measure and Integration II
 
+[Course page](/_pages/analysis2) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/153380)
