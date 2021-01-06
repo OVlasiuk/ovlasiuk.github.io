@@ -1,6 +1,6 @@
 ---
-title: "Measure and Integration I"
-permalink: /_pages/analysis1/
+title: "Measure and Integration II"
+permalink: /_pages/analysis2/
 layout: splash
 ---
 <style type="text/css">
