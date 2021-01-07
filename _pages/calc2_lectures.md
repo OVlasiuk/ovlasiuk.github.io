@@ -2,7 +2,7 @@
 title: "Teaching"
 permalink: /_pages/calc2_lectures/
 layout: splashmath
-date: 2020-08-23
+date: 2021-01-07
 ---
 
 <style type="text/css">
@@ -30,6 +30,11 @@ line-height: 140%;
     font-family: apple color emoji,segoe ui emoji,noto color emoji,android emoji,emojisymbols,emojione mozilla,twemoji mozilla,segoe ui symbol;
 
 }
+hr {
+    border: none;
+    height: 2px;
+    background-color: #bbb;
+}
 </style>
 
 
@@ -45,7 +50,7 @@ line-height: 140%;
 
 [**3** Trigonometric substitution](#trigonometric-substitution)
 
-[**4** Partial fractions](#partial-fractions)
+[**4** Partial fraction decomposition](#partial-fractions)
 
 [**5** Summary of integration techniques](#summary-of-integration-techniques)
 
@@ -53,13 +58,15 @@ line-height: 140%;
 
 ----
 
-[**7** Separable differential equations](#separable-differential-equations)
+[**7** Arc length and area of surfaces of revolution](#arc-length-and-area-of-surfaces-of-revolution)
 
-[**8** Approximate methods for integrals and differential equations](#approximate-methods-for-integrals-and-differential-equations)
+[**8** Applications to physics](#applications-to-physics)
 
-[**9** Arc length and area of surfaces of revolution](#arc-length-and-area-of-surfaces-of-revolution)
+[**9** Separable differential equations](#separable-differential-equations)
 
-[**10** Applications to physics](#applications-to-physics)
+[**10** Approximate methods for integrals and differential equations](#approximate-methods-for-integrals-and-differential-equations)
+
+[**21** Parametric curves](#parametric-curves)
 
 ----
 
@@ -89,11 +96,12 @@ line-height: 140%;
 
 ----
 
-[**21** Parametric curves](#parametric-curves)
-
 [**22** Polar coordinates and applications](#polar-coordinates-and-applications)
 
----- 
+[**23** Conic sections](#conic-sections)
+
+
+<br><br>
 
 | #  | <big> Topics </big>           | <big>Links to video</big>|
 |----|----------------------|------------|
@@ -487,6 +495,20 @@ line-height: 140%;
 |   | [**_Notes on areas in polar coordinates_**](/assets/pdf/polar_area.pdf) |            |
 |22.7 | Formula for computing **areas in polar coordinates** | <a href="https://www.youtube.com/watch?feature=player_embedded&v=JqhOILVm1pc" target="_blank"><img src="https://img.youtube.com/vi/JqhOILVm1pc/0.jpg" alt="video" width="240" border="10" /></a> |
 |22.8 | An example for area in polar coordinates: the region inside the circle \\(r = 3\sin \theta\\) and outside the cardioid \\(r = 1+\sin\theta\\) | <a href="https://www.youtube.com/watch?feature=player_embedded&v=i9L-r9HOCQY" target="_blank"><img src="https://img.youtube.com/vi/i9L-r9HOCQY/0.jpg" alt="video" width="240" border="10" /></a> |
+|----|----------------------|-------------------|
+
+<br>
+
+## Conic sections
+
+| #  | <big> Topics </big>           | <big>Links to video</big>|
+|----|----------------------|------------|
+| 23  | [**_Notes on conic sections_**](/assets/pdf/conic_sections.pdf) |            |
+|----|----------------------|------------|
+|23.1 | We discuss various conic sections and show how to obtain them by intersecting the double cone with a plane | <a href="https://www.youtube.com/watch?feature=player_embedded&v=q032KbL3Eq8" target="_blank"><img src="https://img.youtube.com/vi/q032KbL3Eq8/0.jpg" alt="video" width="240" border="10" /></a> |
+|23.2 | Parabola: geometric characterization and equation | <a href="https://www.youtube.com/watch?feature=player_embedded&v=AY2rLV_woEw" target="_blank"><img src="https://img.youtube.com/vi/AY2rLV_woEw/0.jpg" alt="video" width="240" border="10" /></a> |
+|23.3 | Ellipse: geometric characterization and equation | <a href="https://www.youtube.com/watch?feature=player_embedded&v=h_tt3vJM8rs" target="_blank"><img src="https://img.youtube.com/vi/h_tt3vJM8rs/0.jpg" alt="video" width="240" border="10" /></a> |
+|23.4 | Hyperbola: geometric characterization and equation  | <a href="https://www.youtube.com/watch?feature=player_embedded&v=xcVbweU_m08" target="_blank"><img src="https://img.youtube.com/vi/xcVbweU_m08/0.jpg" alt="video" width="240" border="10" /></a> |
 |----|----------------------|-------------------|
 
 <br>
