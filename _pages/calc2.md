@@ -2,7 +2,7 @@
 title: "Calculus II"
 permalink: /_pages/calc2/
 layout: splash
-date: 2019-03-29T17:02:20-05:00
+date: 2020-01-07T17:02:20-05:00
 ---
 <style type="text/css">
 figcaption {

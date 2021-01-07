@@ -40,7 +40,7 @@ hr {
 
 <h1> Calculus with analytic geometry II  </h1>
 
-[Course page](/_pages/calc2) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/141102)
+[Course page](/_pages/calc2) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/153852)
 
 ## Contents
 
