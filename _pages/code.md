@@ -4,6 +4,17 @@ permalink: /_pages/code/
 layout: splashmath
 date: 2017-11-29T17:02:20-05:00
 ---
+# mpLBFGS
+A multiple precision [L-BFGS implementation](https://github.com/OVlasiuk/mpLBFGS), allowing to find
+minimizers of unconstrained and simple constrained problems to (almost) any
+number of digits. It uses the template matrix classes from Eigen with the mpreal class in
+place of the usual scalars. **Pictured**: a 44-point spherical code in \\(\mathbb R^6\\),
+conjectured to have the largest pairwise separation, in a random orientation. It is also conjectured to be the support of a measure optimizing the [continuous p-frame energy](https://arxiv.org/abs/1908.00885) functional. This and other configurations were identified numerically as minimizers by obtaining high-precision representations of their pairwise scalar products.
+
+<div style="text-align: center">
+<img src="/assets/images/p_frame_r.png" width="400" >
+</div>
+
 # BRieszk
 /ˈbrisk/ is a selection of routines helpful in dealing with discrete measures
 converging to a continunous density. They will compute near-minimizers of
@@ -25,11 +36,13 @@ understood in the sense that both the Delaunay and Voronoi are computed locally
 in the tangent plane, then transplanted back to the surface. Notice also that
 the goal is never to reach an exact local minimizer of the respective energy,
 rather to emulate certain features of such minimizers. Accordingly, no Hessians
-are computed and no careful line searches performed. In fact, it is rather
-remarkable that these points aren't terrible on the energy scale; proving a
-theorem about this is left as an exercise to the reader for now.
+are computed and no careful line searches performed. In fact, it is
+remarkable that these points aren't terrible on the energy scale.
 
-The Github repo for BRieszk is [here][2].
+The Github repo for BRieszk is [here][2]. The proof that the approach of
+truncating interactions to a fixed number of nearest neighbors results in
+minimizers which have both the optimal local properties and the correct
+distribution is contained in the joined paper with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**,  [arXiv:2010.11937](http://arxiv.org/abs/2010.11937).
 
 
 <!-- ![Tangle 1]({{ "/assets/images/tangle40k_1.png" | absolute_url}})|![Tangle 2]({{ "/assets/images/tangle40k_2.png" | absolute_url}}) -->
