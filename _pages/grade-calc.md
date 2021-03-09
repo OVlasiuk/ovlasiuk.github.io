@@ -24,7 +24,7 @@ categories: Teaching
 
 <div class="container">
 <p>
-Enter the grades received on tests 1–4, the grade for homeworks and quizzes, as well as the expected grade on the final, and obtain the resulting grade for MAC2312.
+Enter the grades received on tests 1–3, the grade for homeworks and quizzes, as well as the expected grade on the final, and obtain the resulting grade for MAC2312.
 </p> 
 
 <form class="form-horizontal">
@@ -58,10 +58,10 @@ Enter the grades received on tests 1–4, the grade for homeworks and quizzes, a
 <input id="three" placeholder="100" class="form-control input-md" type="text">
 </div>
 
-<label class="col-md-2 control-label" for="four"> Test 4 </label> 
-<div class="col-md-3">
-<input id="four" placeholder="100" class="form-control input-md" type="text">
-</div>
+<!-- <label class="col-md-2 control-label" for="four"> Test 4 </label> --> 
+<!-- <div class="col-md-3"> -->
+<!-- <input id="four" placeholder="100" class="form-control input-md" type="text"> -->
+<!-- </div> -->
 </div>
 
 
@@ -116,12 +116,15 @@ $(function () {
             tests[1] = evaluate("#one");
             tests[2] = evaluate("#two");
             tests[3] = evaluate("#three");
-            tests[4] = evaluate("#four");
+            //tests[4] = evaluate("#four");
             f = evaluate("#final");
 
-            m = Math.min(tests[1],tests[2],tests[3],tests[4]);
+            m = Math.min(tests[1],tests[2],tests[3]
+            //,tests[4]
+            );
             r =  
-                0.6*( tests[1]+tests[2]+tests[3]+tests[4] )/4
+                0.6*( tests[1]+tests[2]+tests[3] )/3
+                //0.6*( tests[1]+tests[2]+tests[3]+tests[4] )/4
                 // 0.6*( tests[1]+tests[2]+tests[3]+tests[4] + Math.max((f-m)/2, 0) )/4
                 +0.1*hw
                 +0.3*f;
@@ -155,7 +158,7 @@ $(function () {
             $("#result").text(format(String(r))+mes);
         }
 
-        $("#one,#two,#three,#four,#hw,#final").keyup(function (e) {
+        $("#one,#two,#three,#hw,#final").keyup(function (e) {
                 calculate();
                 });
 
