@@ -6,7 +6,9 @@ title: "About: Oleksandr Vlasiuk"
 A longer version of the CV: in [pdf](/assets/pdf/cv_web.pdf).
 
 ## Employment
-### 2018–
+### 2021–22
+*Vanderbilt University*, *Postdoc*  <br>
+### 2018–21
 *Florida State University*, *Postdoc*  <br>
 
 ## Education
@@ -17,7 +19,7 @@ Advisor: Edward B. Saff
 *Université du Sud, Toulon-Var*, Master I Mathématiques<br>
 Advisor: Lyudmyla Yushchenko <br>
 <!-- GPA: 19.359/20 -->
-### 2009–2013
+### 2009–13
 *Kyiv Taras Shevchenko University*, BSc.<br>
 Advisor: Igor Shevchuk<br>
 
