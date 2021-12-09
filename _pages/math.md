@@ -5,13 +5,14 @@ date: 2018-12-02
 ---
 
 ## Preprints
+* with D. Bilyk, R. Matzke, **Positive definiteness and the Stolarsky invariance principle**, [arXiv:2110.04138](http://arxiv.org/abs/arXiv:2110.04138) <br>
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Potential theory with multivariate kernels**, [arXiv:2104.03410](http://arxiv.org/abs/arXiv:2104.03410) <br>
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**,  [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
-* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)<br> 
-Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html). <br>
 {: style="text-align: left"}
 ## Publications
+* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, [arXiv:1908.00885](https://arxiv.org/abs/1908.00885), Rev. Matemática Iberoam., accepted. <br> 
+Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html).
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, J. Funct. Anal. 280 (2021), no. 11. 
 [doi:10.1016/j.jfa.2021.108995](https://doi.org/10.1016/j.jfa.2021.108995)
 [arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
