@@ -15,5 +15,5 @@ My research is in [computational](/_pages/code) and convex geometry, geometric m
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
 <br>
 
-I am co-organizing the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); feel free to contact us if you would like to give a talk!
+I am co-organizing the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); if you would like to give a talk or have some ideas about point distribution, feel free to email me at oleksandr[dot]vlasiuk[at]gmail.com.
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
