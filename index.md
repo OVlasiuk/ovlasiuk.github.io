@@ -17,3 +17,8 @@ My research is in [computational](/_pages/code) and convex geometry, geometric m
 
 I am co-organizing the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); if you would like to give a talk or have some ideas about point distribution, feel free to email me at oleksandr[dot]vlasiuk[at]gmail.com.
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
+
+
+[Learn about the Russian invasion in Ukraine](https://war.ukraine.ua). Please consider
+donating to a charity helping the displaced Ukrainians and/or the Ukrainian Army, such as [Come Back Alive](https://www.comebackalive.in.ua/), [UNICEF](https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine), [Red Cross](https://www.icrc.org/en/donate/ukraine).
+{: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0; font-weight:bold;"} 
