@@ -12,9 +12,9 @@ date: 2018-12-02
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 {: style="text-align: left"}
 ## Publications
-* with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Potential theory with multivariate kernels**, [arXiv:2104.03410](http://arxiv.org/abs/arXiv:2104.03410), Math. Zeitschrift., accepted. <br>
+* with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Potential theory with multivariate kernels**, Math. Zeitschrift (2022). [doi:10.1007/s00209-022-03000-z](https://doi.org/10.1007/s00209-022-03000-z) [arXiv:2104.03410](http://arxiv.org/abs/arXiv:2104.03410). <br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, [arXiv:1908.00885](https://arxiv.org/abs/1908.00885), Rev. Matemática Iberoam., accepted. <br> 
-Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html).
+Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html).<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, J. Funct. Anal. 280 (2021), no. 11. 
 [doi:10.1016/j.jfa.2021.108995](https://doi.org/10.1016/j.jfa.2021.108995)
 [arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
