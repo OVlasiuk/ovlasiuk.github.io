@@ -13,7 +13,7 @@ date: 2018-12-02
 {: style="text-align: left"}
 ## Publications
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Potential theory with multivariate kernels**, Math. Zeitschrift (2022). [doi:10.1007/s00209-022-03000-z](https://doi.org/10.1007/s00209-022-03000-z) [arXiv:2104.03410](http://arxiv.org/abs/arXiv:2104.03410). <br>
-* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, [arXiv:1908.00885](https://arxiv.org/abs/1908.00885), Rev. Matemática Iberoam., accepted. <br> 
+* with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, Rev. Mat. Iberoam. 38 (2022), no. 4, 1129–1160. [doi:10.4171/RMI/1329](https://doi.org/10.4171/RMI/1329)  [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)  <br> 
 Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html).<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**, J. Funct. Anal. 280 (2021), no. 11. 
 [doi:10.1016/j.jfa.2021.108995](https://doi.org/10.1016/j.jfa.2021.108995)
