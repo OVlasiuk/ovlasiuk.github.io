@@ -9,7 +9,6 @@ author_profile: false
 
 Welcome to my homepage! I am presently a lecturer in the Mathematics Department of Vanderbilt University.
 {: style="margin-top: 10%; margin-left: 12%; margin-right: 12%; text-align: justify"}
-<br>
 
 My research is in [computational](/_pages/code) and convex geometry, geometric measure theory, and [behavior of minimizers](/_pages/math) of variational functionals. In the free time I read gcc error messages and fix my bicycle.
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
