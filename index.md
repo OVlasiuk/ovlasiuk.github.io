@@ -7,7 +7,7 @@ author_profile: false
 <img src="/assets/images/st_george_isl.jpg" width="200" style="border-radius: 10%;" >
 </div>
 
-Welcome to my homepage! I am presently a postdoc in the Mathematics Department of Vanderbilt University.
+Welcome to my homepage! I am presently a lecturer in the Mathematics Department of Vanderbilt University.
 {: style="margin-top: 10%; margin-left: 12%; margin-right: 12%; text-align: justify"}
 <br>
 
@@ -15,7 +15,7 @@ My research is in [computational](/_pages/code) and convex geometry, geometric m
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
 <br>
 
-I am co-organizing the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); if you would like to give a talk or have some ideas about point distribution, feel free to email me at oleksandr[dot]vlasiuk[at]gmail.com.
+I was a co-organizer of the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); the archives are available following that link. If you have any comments for the materials or ideas about point distribution in general, feel free to email me at oleksandr[dot]vlasiuk[at]gmail.com.
 {: style="margin-left: 12%; margin-right: 12%; text-align: justify; text-indent: 0;"} 
 
 
