@@ -19,6 +19,6 @@ I was a co-organizer of the [Point Distributions Webinar](https://vlasiuk.com/PD
 
 
 [Learn about the Russian invasion in Ukraine](https://war.ukraine.ua). Please
-consider donating to a charity helping displaced Ukrainians and/or the Ukrainian government, such as 
-[United24](https://u24.gov.ua), [UNICEF](https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine). 
+consider donating to a charity helping Ukrainians and/or the Ukrainian government, such as 
+[United24](https://u24.gov.ua), [Hospitallers](https://www.hospitallers.life), [UNICEF](https://www.unicef.org.uk/donate/donate-now-to-protect-children-in-ukraine). 
 {: style="margin-left:12%; margin-right: 12%; text-align: justify; text-indent: 0; font-weight:bold;"} 
