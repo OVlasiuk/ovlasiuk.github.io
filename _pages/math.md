@@ -7,7 +7,7 @@ date: 2018-12-02
 ## Preprints
 * with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**,  [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with D. Bilyk, R. Matzke, **Positive definiteness and the Stolarsky invariance principle**, [arXiv:2110.04138](http://arxiv.org/abs/arXiv:2110.04138), accepted to JMAA <br>
-* with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**, [arXiv:2106.11956](http://arxiv.org/abs/arXiv:2106.11956) <br>
+* with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**, [arXiv:2106.11956](http://arxiv.org/abs/arXiv:2106.11956), accepted to Adv. Math. <br>
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**,  [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 {: style="text-align: left"}
