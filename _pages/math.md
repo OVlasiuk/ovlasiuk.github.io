@@ -7,11 +7,13 @@ date: 2018-12-02
 ## Preprints
 * with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**,  [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with D. Bilyk, R. Matzke, **Positive definiteness and the Stolarsky invariance principle**, [arXiv:2110.04138](http://arxiv.org/abs/arXiv:2110.04138), accepted to JMAA <br>
-* with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**, [arXiv:2106.11956](http://arxiv.org/abs/arXiv:2106.11956), accepted to Adv. Math. <br>
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**,  [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**, [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 {: style="text-align: left"}
 ## Publications
+* with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**, 
+Adv. Math. [doi:10.1016/j.aim.2022.108720](https://doi.org/10.1016/j.aim.2022.108720)
+[arXiv:2106.11956](https://arxiv.org/abs/arXiv:2106.11956) <br>
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Potential theory with multivariate kernels**, Math. Zeitschrift (2022). [doi:10.1007/s00209-022-03000-z](https://doi.org/10.1007/s00209-022-03000-z) [arXiv:2104.03410](http://arxiv.org/abs/arXiv:2104.03410). <br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**, Rev. Mat. Iberoam. 38 (2022), no. 4, 1129–1160. [doi:10.4171/RMI/1329](https://doi.org/10.4171/RMI/1329)  [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)  <br> 
 Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html).<br>
