@@ -6,9 +6,9 @@ date: 2018-12-02
 
 ## Preprints
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for multivariate geometric potentials**<br>
-[arXiv:2303.14258](http://arxiv.org/abs/arXiv:2303.14258). <br>
+[arXiv:2303.14258](http://arxiv.org/abs/arXiv:2303.14258) <br>
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimizers of three-point energies and nearly orthogonal sets**<br>
-[arXiv:2303.12283](http://arxiv.org/abs/arXiv:2303.12283). <br>
+[arXiv:2303.12283](http://arxiv.org/abs/arXiv:2303.12283) <br>
 * with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**<br>
 Constr. Approx., accepted (2023) [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**<br>
@@ -25,7 +25,7 @@ J. Math. Anal. Appl. (2022) [doi:10.1016/j.jmaa.2022.126220](https://doi.org/10.
 Math. Zeitschrift (2022). [doi:10.1007/s00209-022-03000-z](https://doi.org/10.1007/s00209-022-03000-z) [arXiv:2104.03410](http://arxiv.org/abs/arXiv:2104.03410). <br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for p-frame energies on spheres**<br>
 Rev. Mat. Iberoam. 38 (2022), no. 4, 1129–1160. [doi:10.4171/RMI/1329](https://doi.org/10.4171/RMI/1329)  [arXiv:1908.00885](https://arxiv.org/abs/1908.00885)  <br> 
-Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html).<br>
+Auxiliary files: [[ipynb]](/assets/600cell.ipynb) [[html]](/assets/600cell.html)<br>
 * with D. Bilyk, A. Glazyrin, R. Matzke, and J. Park, **Energy on spheres and discreteness of minimizing measures**<br>
 J. Funct. Anal. 280 (2021), no. 11. [doi:10.1016/j.jfa.2021.108995](https://doi.org/10.1016/j.jfa.2021.108995)
 [arXiv:1908.10354](https://arxiv.org/abs/1908.10354)<br>
