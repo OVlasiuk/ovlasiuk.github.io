@@ -9,14 +9,14 @@ date: 2018-12-02
 [arXiv:2303.14258](http://arxiv.org/abs/arXiv:2303.14258) <br>
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimizers of three-point energies and nearly orthogonal sets**<br>
 [arXiv:2303.12283](http://arxiv.org/abs/arXiv:2303.12283) <br>
-* with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**<br>
-Constr. Approx., accepted (2023) [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**<br>
 [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**<br>
 [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 {: style="text-align: left"}
 ## Publications
+* with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**<br>
+Constr. Approx. (2023), [doi:10.1007/s00365-023-09641-5](https://doi.org/10.1007/s00365-023-09641-5), [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**<br>
 Adv. Math. (2022) [doi:10.1016/j.aim.2022.108720](https://doi.org/10.1016/j.aim.2022.108720), [arXiv:2106.11956](https://arxiv.org/abs/arXiv:2106.11956) <br>
 * with D. Bilyk, R. Matzke, **Positive definiteness and the Stolarsky invariance principle**<br>
