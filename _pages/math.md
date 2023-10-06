@@ -5,18 +5,18 @@ date: 2018-12-02
 ---
 
 ## Preprints
-* with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for multivariate geometric potentials**<br>
-[arXiv:2303.14258](http://arxiv.org/abs/arXiv:2303.14258) <br>
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimizers of three-point energies and nearly orthogonal sets**<br>
 [arXiv:2303.12283](http://arxiv.org/abs/arXiv:2303.12283) <br>
 * with D. P. Hardin and E. B. Saff, **Asymptotic properties of short-range interaction functionals**<br>
 [arXiv:2010.11937](http://arxiv.org/abs/2010.11937) <br> 
 * **Discreteness of the minimizers of weakly repulsive interaction energies on Riemannian manifolds**<br>
 [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
-{: style="text-align: left"}
+
 ## Publications
 * with J. Batle and O. Ciftja, **Correspondence between electrostatics and contact mechanics with further results in equilibrium charge distributions**<br>
 Ann. Phys., accepted (2023)
+* with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimal measures for multivariate geometric potentials**<br>
+Indiana Univ. Math. J., accepted (2023), [arXiv:2303.14258](http://arxiv.org/abs/arXiv:2303.14258) <br>
 * with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**<br>
 Constr. Approx. (2023), [doi:10.1007/s00365-023-09641-5](https://doi.org/10.1007/s00365-023-09641-5), [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**<br>
@@ -52,6 +52,5 @@ SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673.
 J. Approx. Theory  179  (2014), 1--23.  [doi:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>
 
 ## Other
-{: style="margin-top: 3cm"}
-
+{: style="margin-top: 1cm"}
 * **Log-energy, β-ensembles, and tessellations: problems old and new** (2018), [\[pdf\]](../assets/pdf/ICERM18problems.pdf)<br>
