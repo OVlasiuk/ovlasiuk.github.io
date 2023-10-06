@@ -15,6 +15,8 @@ date: 2018-12-02
 [arXiv:2003.01597](https://arxiv.org/abs/2003.01597)<br>
 {: style="text-align: left"}
 ## Publications
+* with J. Batle and O. Ciftja, **Correspondence between electrostatics and contact mechanics with further results in equilibrium charge distributions**<br>
+Ann. Phys., accepted (2023)
 * with D. P. Hardin and E. B. Saff, **Asymptotics of k-nearest neighbor Riesz energies**<br>
 Constr. Approx. (2023), [doi:10.1007/s00365-023-09641-5](https://doi.org/10.1007/s00365-023-09641-5), [arXiv:2201.00474](http://arxiv.org/abs/2201.00474) <br> 
 * with A. Anderson, A. Reznikov, and E. White, **Polarization and covering on sets of low smoothness**<br>
