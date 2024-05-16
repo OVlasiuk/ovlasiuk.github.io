@@ -4,11 +4,9 @@ main:
     url: /_pages/math
   - title: "code"
     url: /_pages/code
-  - title: "teaching"
-    url: /_pages/teaching
+  # - title: "teaching"
+  #   url: /_pages/teaching
   - title: "about"
     url: /_pages/about
   - title: "/dev/null"
     url: /devnull/index.html
-  # - title: "Sitemap"
-  #   url: /sitemap/
