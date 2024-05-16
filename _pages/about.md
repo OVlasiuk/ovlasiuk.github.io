@@ -1,6 +1,6 @@
 ---
 layout: about
-title: "About: Oleksandr Vlasiuk"
+title: "About: Alex Vlasiuk"
 ---
 
 Résumé [pdf](/assets/pdf/resume_web.pdf), academic CV [pdf](/assets/pdf/cv_web.pdf).

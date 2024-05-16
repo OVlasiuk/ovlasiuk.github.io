@@ -1,8 +1,14 @@
 ---
-title: Publications
+title: Math things
 layout: splash
 date: 2018-12-02
 ---
+
+## Miscellanea
+{: style="margin-top: 1cm"}
+* [Old teaching materials](/_pages/teaching): calculus and measure theory, as taught at FSU. Includes some demo Maxima and Jupyter notebooks.
+* I was a co-organizer of the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); the archives are available following that link.
+* **Log-energy, β-ensembles, and tessellations: problems old and new** (2018), [\[pdf\]](../assets/pdf/ICERM18problems.pdf)<br>
 
 ## Preprints
 * with D. Bilyk, D. Ferizović, A. Glazyrin, R. Matzke, and J. Park, **Optimizers of three-point energies and nearly orthogonal sets**<br>
@@ -50,9 +56,3 @@ SIAM J. Math. Anal.  49  (2017),  no. 1, 646--673.
 [arXiv:1605.03840](https://arxiv.org/abs/1605.03840)<br>
 * with D. Leviatan and I. A. Shevchuk, **Positive results and counterexamples in comonotone approximation II**<br>
 J. Approx. Theory  179  (2014), 1--23.  [doi:10.1016/j.jat.2013.11.004](https://doi.org/10.1016/j.jat.2013.11.004)<br>
-
-## Other
-{: style="margin-top: 1cm"}
-* **Log-energy, β-ensembles, and tessellations: problems old and new** (2018), [\[pdf\]](../assets/pdf/ICERM18problems.pdf)<br>
-* I was a co-organizer of the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); the archives are available following that link.
-* [Old teaching materials](/assets/pdf/cv_web.pdf): calculus (undergraduate) and measure theory (graduate), as taught at FSU. Includes some demo Maxima notebooks.
