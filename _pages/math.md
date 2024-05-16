@@ -54,3 +54,4 @@ J. Approx. Theory  179  (2014), 1--23.  [doi:10.1016/j.jat.2013.11.004](https://
 ## Other
 {: style="margin-top: 1cm"}
 * **Log-energy, β-ensembles, and tessellations: problems old and new** (2018), [\[pdf\]](../assets/pdf/ICERM18problems.pdf)<br>
+* I was a co-organizer of the [Point Distributions Webinar](https://vlasiuk.com/PDseminar/); the archives are available following that link.
