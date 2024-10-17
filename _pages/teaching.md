@@ -15,12 +15,12 @@ p{
 
 ## MAC2312 Calculus with Analytic Geometry II
 
-[Course page](/_pages/calc2) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/153852)
+[Course page](/_pages/calc2) &emsp;&emsp;
 
 ## MAA5616 Measure and Integration I
 
-[Course page](/_pages/analysis1) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/145720)
+[Course page](/_pages/analysis1) &emsp;&emsp;
 
 ## MAA5617 Measure and Integration II
 
-[Course page](/_pages/analysis2) &emsp;&emsp; [Canvas page](https://canvas.fsu.edu/courses/153380)
+[Course page](/_pages/analysis2) &emsp;&emsp;
